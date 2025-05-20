@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Sagar Biswas
 #### I am a Coder | Web Devoloper | Web Penetration Tester. 
-![I am a Coder | Web Devoloper | Web Penetration Tester. ](https://imgur.com/R358HbT)
+![I am a Coder | Web Devoloper | Web Penetration Tester. ](https://i.imgur.com/R358HbT.png)
 
 👋 About Me
 
