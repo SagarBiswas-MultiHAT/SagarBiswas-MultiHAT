@@ -31,7 +31,7 @@ To achieve my goals, I’m diving into:
 
 I’m always eager to connect with fellow developers, cybersecurity enthusiasts, and learners. Check out my repositories to see what I’m working on, or feel free to reach out. Let’s collaborate, share ideas, and grow together! 🚀
 
-Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScripts
+Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScripts | html | css | javascript | PHP |
 
 - 🔭 I’m currently working on Exploring advanced penetration testing techniques and applying them to real-world scenarios. 
 - 🌱 I’m currently learning CSE at American International University Bangladesh (AIUB).AIUB  
