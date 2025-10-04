@@ -34,7 +34,7 @@ I’m always eager to connect with fellow developers, cybersecurity enthusiasts,
 Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScripts | html | css | javascript | PHP |
 
 - 🔭 I’m currently working on Exploring advanced penetration testing techniques and applying them to real-world scenarios. 
-- 🌱 I’m currently learning CSE at American International University Bangladesh (AIUB).AIUB  
+- 🌱 I’m currently learning CSE at American International University Bangladesh (AIUB).
 - 👯 I’m looking to collaborate on Open-source projects focused on cybersecurity and web security. 
 - 🤔 I’m looking for help with Improving my penetration testing skills and learning advanced techniques. 
 - 💬 Ask me about Programming Languages, Network Security, Linux Tools. 
