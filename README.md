@@ -38,7 +38,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 - 👯 I’m looking to collaborate on Open-source projects focused on cybersecurity and web security. 
 - 🤔 I’m looking for help with Improving my penetration testing skills and learning advanced techniques. 
 - 💬 Ask me about Programming Languages, Network Security, Linux Tools. 
-- 📫 How to reach me: eng.sagar.aiub@student.aiub.edu || 01727361077 
+- 📫 How to reach me: eng.sagar.aiub@gmail.com || 01727361077 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: My biggest weakness: when I am engaged with any work, I can't keep concerned with other work without finishing that. 
 
