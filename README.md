@@ -47,8 +47,8 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbiswas-multihat&label=Profile%20views&color=0e75b6&style=flat" alt="sagarbiswas-multihat" /> </p>
 
-<!-- Trophy service can be flaky/rate-limited. Streak badge below is more reliable. -->
-<p align="left"> <a href="https://streak-stats.demolab.com?user=sagarbiswas-multihat&theme=tokyonight&hide_border=true"><img src="https://streak-stats.demolab.com?user=sagarbiswas-multihat&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> </p>
+<!-- Streak badge with longer cache to avoid GitHub API rate limits/outages. -->
+<p align="left"> <a href="https://streak-stats.demolab.com?user=sagarbiswas-multihat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&background=00000000&cache_seconds=43200"><img src="https://streak-stats.demolab.com?user=sagarbiswas-multihat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&background=00000000&cache_seconds=43200" alt="GitHub Streak" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
