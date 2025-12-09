@@ -49,7 +49,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 
 <!-- GitHub streak card (weekly mode, rounded corners). Add cache_seconds if rate limits appear. -->
 <p align="left">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&theme=onedark&border_radius=10&mode=weekly&card_width=700&card_height=200&cache_seconds=86400" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&theme=onedark&border_radius=10&mode=weekly&card_width=595" alt="GitHub Streak" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
