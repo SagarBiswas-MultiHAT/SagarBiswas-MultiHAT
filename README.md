@@ -47,11 +47,6 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbiswas-multihat&label=Profile%20views&color=0e75b6&style=flat" alt="sagarbiswas-multihat" /> </p>
 
-<!-- GitHub streak card (weekly mode, rounded corners). Add cache_seconds if rate limits appear. -->
-<p align="left">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&theme=onedark&border_radius=10&mode=weekly&card_width=595" alt="GitHub Streak" /></a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/[{(https://www.facebook.com/0sagarbiswas0)}]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[{(https://www.facebook.com/0sagarbiswas0)}]" height="30" width="40" /></a>
