@@ -49,7 +49,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sagarbiswas-multihat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[{(https://www.facebook.com/0sagarbiswas0)}]" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sagarbiswas-multihat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagarbiswas-multihat" height="30" width="40" /></a>
 <a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/0sagarbiswas0" height="30" width="40" /></a>
 <a href="https://www.instagram.com/0_sagar_biswas_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/0_sagar_biswas_0/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@SagarsCodeCraft-mf7hq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sagarscodecraft-mf7hq" height="30" width="40" /></a>
