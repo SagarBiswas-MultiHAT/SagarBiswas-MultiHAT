@@ -74,7 +74,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
     <img
       src="https://img.youtube.com/vi/oUp4SWSrYYk/hqdefault.jpg"
       alt="Play the featured YouTube video"
-      width="480"
+      width="680"
       loading="lazy"
     />
   </a>
