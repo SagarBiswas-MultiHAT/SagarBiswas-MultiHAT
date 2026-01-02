@@ -202,7 +202,7 @@ If you discover a security issue in any of my projects, please contact me direct
   <a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety">
     AIUB CyberSecurity & Programming Society
   </a>
-<\div>
+</div>
 </p>
 
 <div align="center"><h2>Useful Repositories</h2></div>
