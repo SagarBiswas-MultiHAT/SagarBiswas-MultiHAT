@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
+  <a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-Community-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook Group" /></a>
+  &nbsp;
   <a href="mailto:eng.sagar.aiub@gmail.com"><img src="https://img.shields.io/badge/Email-eng.sagar.aiub%40gmail.com-informational?style=flat" alt="Email" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sagarbiswas-multihat/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-Community-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook Group" /></a>
   &nbsp;
 
 </p>
@@ -156,19 +156,6 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 </div>
 
 <br>
-<p align="center">
-  <a href="https://docs.github.com/en/developers" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docs-GitHub-24292e?logo=github&logoColor=white" alt="GitHub Developer Docs" height="24" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/pricing" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pricing-GitHub-2ea44f?logo=github&logoColor=white" alt="GitHub Pricing" height="24" />
-  </a>
-  &nbsp;
-  <a href="https://stars.github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Stars-GitHub-f1c40f?logo=github&logoColor=white" alt="GitHub Stars" height="24" />
-  </a>
-</p>
 
 ---
 
