@@ -196,11 +196,12 @@ If you discover a security issue in any of my projects, please contact me direct
   <a href="https://github.com/SagarBiswas-MultiHAT/C-Programming-handBooks">
     <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=C-Programming-handBooks&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Google_Dorks_Notebook"></a>
 
-    NOTE: To find more notebooks like this, join my Facebook community group and check the featured section.
-
+    NOTE: To find more notebooks, projects, tips and tricks like this, join my Facebook community group and check the featured section.
+<p align="center">
   <a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety">
     AIUB CyberSecurity & Programming Society
   </a>
+<\p>
 </p>
 
 <div align="center"><h2>Useful Repositories</h2></div>
