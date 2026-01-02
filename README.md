@@ -66,6 +66,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 - 📫 How to reach me: eng.sagar.aiub@gmail.com || 01727361077
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My biggest weakness: when I am engaged with any work, I can't keep concerned with other work without finishing that.
+
 ---
 
 <h2 align="center">Featured</h2>
@@ -73,6 +74,17 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
   <a href="https://youtu.be/oUp4SWSrYYk?si=7F3ZTdetR5qVf-4Y" target="_blank">
     <img
       src="https://img.youtube.com/vi/oUp4SWSrYYk/hqdefault.jpg"
+      alt="Play the featured YouTube video"
+      width="680"
+      loading="lazy"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/taQ3kKomMw0?si=7F3ZTdetR5qVf-4Y" target="_blank">
+    <img
+      src="https://img.youtube.com/vi/taQ3kKomMw0/hqdefault.jpg"
       alt="Play the featured YouTube video"
       width="680"
       loading="lazy"
@@ -136,6 +148,8 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sagarbiswas-multihat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="sagarbiswas-multihat" />
 </div>
+
+<br>
 
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sagarbiswas-multihat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="sagarbiswas-multihat" />
