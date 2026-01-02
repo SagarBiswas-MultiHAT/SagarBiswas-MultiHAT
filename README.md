@@ -100,7 +100,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 <a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/0sagarbiswas0" height="30" width="40" /></a>
 <a href="https://www.instagram.com/0_sagar_biswas_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/0_sagar_biswas_0/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@SagarsCodeCraft-mf7hq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sagarscodecraft-mf7hq" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/eng_sagar_aiub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/eng_sagar_aiub" height="30" width="40" /></a>
+<a href="https://codeforces.com" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?logo=codeforces&logoColor=white" alt="Codeforces" height="25" width="110" /></a>
 <br>
 </p>
 
@@ -185,9 +185,7 @@ If you discover a security issue in any of my projects, please contact me direct
 
 ---
 
-
 <details><summary><h2>📂 My More Work</h2></summary>
-  
 
 <div align="center"><h2>📔NoteBooks AND Facebook Community Group</h2></div>
 
@@ -205,11 +203,15 @@ If you discover a security issue in any of my projects, please contact me direct
   </a>
 </p>
 
-<div align="center"><h2>📕Free Book Store/Library (70+)</h2></div>
+<div align="center"><h2>Useful Repositories</h2></div>
 
 <p align="center">
+
   <a href="https://github.com/SagarBiswas-MultiHAT/Cybersecurity-Library">
-    <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Cybersecurity-Library&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Google_Dorks_Notebook"></a>
+    <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Cybersecurity-Library&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Cybersecurity-Library"></a>
+
+  <a href="https://github.com/SagarBiswas-MultiHAT/WSL-Installation_Guide/">
+    <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=WSL-Installation_Guide&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="WSL-Installation_Guide"></a>
 </p>
 
 <div align="center"><h2>🤖AI Based Projects</h2></div>
@@ -247,7 +249,24 @@ If you discover a security issue in any of my projects, please contact me direct
 </p>
 
 <div align="center"><h2>🧑‍💻 Development</h2></div>
+
 <p align="center">
+
+  <a href="https://github.com/SagarBiswas-MultiHAT/SharpLink-URL-Shortener-Web/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=SharpLink-URL-Shortener-Web&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="SharpLink-URL-Shortener-Web"></a>
+
+  <a href="https://github.com/SagarBiswas-MultiHAT/Converter-Photos-to-PDF_PDF-to-photos/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Converter-Photos-to-PDF_PDF-to-photos&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Converter-Photos-to-PDF_PDF-to-photos"></a>
+
+  <a href="https://github.com/SagarBiswas-MultiHAT/AirportDesk-Assistant/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=AirportDesk-Assistant&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="AirportDesk-Assistant"></a>
+
+  <a href="https://github.com/SagarBiswas-MultiHAT/Library-Management-System">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Library-Management-System&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Library-Management-System"></a>
+
+  <a href="https://github.com/SagarBiswas-MultiHAT/2FA-Auth/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=2FA-Auth&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="SecurePay_E-Wallet"></a>
+
   <a href="https://github.com/SagarBiswas-MultiHAT/SecurePay_E-Wallet">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=SecurePay_E-Wallet&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="SecurePay_E-Wallet"></a>
 
@@ -340,7 +359,6 @@ If you discover a security issue in any of my projects, please contact me direct
   <a href="https://github.com/SagarBiswas-MultiHAT/domain-to-ip">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=domain-to-ip&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="domain-to-ip"></a>
 </p>
-
 
 <div align="center"><h2>Collected Projects</h2></div>
 
