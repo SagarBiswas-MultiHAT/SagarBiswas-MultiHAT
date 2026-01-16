@@ -1,4 +1,4 @@
-<h1 align="center"># Sagar Biswas (SagarBiswas-MultiHAT)</h1>
+<h1 align="center"> Sagar Biswas (SagarBiswas-MultiHAT)</h1>
 
 <p align="center"><b>CyberSecurity Enthusiast (Web App Security) • Web Developer • CSE Student (AIUB)</b></p>
 
