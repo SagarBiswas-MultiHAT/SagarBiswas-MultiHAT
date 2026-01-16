@@ -1,5 +1,10 @@
-<h1 align="center">Sagar Biswas</h1>
-<p align="center"><b>Ethical Hacker (Web App Security) • Web Developer • CSE Student (AIUB)</b></p>
+<h1 align="center"># Sagar Biswas (SagarBiswas-MultiHAT)</h1>
+
+<p align="center"><b>CyberSecurity Enthusiast (Web App Security) • Web Developer • CSE Student (AIUB)</b></p>
+
+Sagar Biswas is a Computer Science and Engineering (CSE) student at American International University–Bangladesh (AIUB), a cybersecurity enthusiast, ethical hacker (web application security), and web developer.
+
+This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas-MultiHAT, where he publishes open-source projects, cybersecurity tools, learning notebooks, and web development work.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagarbiswas-multihat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
