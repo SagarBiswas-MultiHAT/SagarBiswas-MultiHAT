@@ -11,9 +11,8 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 - Name: Sagar Biswas
 - Username: SagarBiswas-MultiHAT
 - Field: Web Developer, Cybersecurity (Ethical Hacking, Web App Security)
-- Role: BSc in Computer Science And Engineering (CSE) Student at American International University Bangladesh 
+- Role: BSc in Computer Science And Engineering (CSE) Student at American International University Bangladesh
 - Country: Bangladesh
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagarbiswas-multihat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -178,11 +177,26 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 If you discover a security issue in any of my projects, please contact me directly at <a href="https://www.facebook.com/0sagarbiswas0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sagar Biswas-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook Group" /></a>
 &nbsp; OR [**eng.sagar.aiub@gmail.com**](mailto:eng.sagar.aiub@gmail.com) with details. Do not post exploit details publicly until we discuss and agree on responsible disclosure and remediation.
 
-<!-- ## Footer / Quick Links
+## Footer / Quick Links
 
-- Resume: resume PDF
-- Certifications: link certificates (Coursera, eDX, Offensive Security) in a `/certs` folder or a dedicated page
-- Sponsor / Support: add GitHub Sponsors or PayPal link if want to accept support -->
+- Resume: [resume PDF](https://drive.google.com/file/d/18BtEroNdT2t8sqlcxrE7hS-7aAeHLydd/view?usp=sharing)
+
+- Certifications: [Google Drive](https://drive.google.com/drive/folders/1t2Lb7s9-zADwRKmO2ctyqVGQkYJw3NGg?usp=sharing)
+
+<details><summary>- Certifications: </summary>
+
+<br>
+1. Certified Phishing Prevention Specialist (CPPS)
+
+![Certified Phishing Prevention Specialist (CPPS)](https://imgur.com/XV4xhx6.png)
+
+2. Certified Red Certificate
+
+![Certified Red Certificate](https://imgur.com/T6XSz8p.png)
+
+</details>
+
+<!-- - Sponsor / Support: add GitHub Sponsors or PayPal link if want to accept support -->
 
 ---
 
@@ -197,7 +211,7 @@ If you discover a security issue in any of my projects, please contact me direct
   <a href="https://github.com/SagarBiswas-MultiHAT/C-Programming-handBooks">
     <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=C-Programming-handBooks&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Google_Dorks_Notebook"></a>
 
-    NOTE: To find more notebooks, projects, tips and tricks like this, join my Facebook community group and check the featured section.
+    NOTE: To find more notebooks, projects, tips and tricks like this, join my Facebook community group and check the featured section for notebooks and explore the Posts to discover real-world projects.
 
 <div align="center">
   <a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety">
