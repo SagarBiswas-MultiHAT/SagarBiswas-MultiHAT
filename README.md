@@ -372,9 +372,6 @@ If you discover a security issue in any of my projects, please contact me direct
   <a href="https://github.com/SagarBiswas-MultiHAT/Network_Communication_Scripts">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Network_Communication_Scripts&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Network_Communication_Scripts"></a>
 
-  <a href="https://github.com/SagarBiswas-MultiHAT/Scientific_Calculator">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Scientific_Calculator&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Scientific_Calculator"></a>
-
   <a href="https://github.com/SagarBiswas-MultiHAT/virusNewFolder">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=virusNewFolder&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="virusNewFolder"></a>
 
