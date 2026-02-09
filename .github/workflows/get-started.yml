@@ -1,0 +1,22 @@
+name: Get started with GitHub Actions
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch: {}
+
+jobs:
+  verify:
+    name: Run repository sanity check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Confirm README exists
+        run: |
+          echo "README contains $(wc -l README.md) lines"
+          ls -1
