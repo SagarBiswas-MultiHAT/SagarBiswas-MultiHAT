@@ -1,5 +1,19 @@
 <h1 align="center"> Sagar Biswas (SagarBiswas-MultiHAT)</h1>
 
+<p align="center">
+  <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions"><img src="https://img.shields.io/github/actions/workflow/status/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/get-started.yml?branch=main" alt="Actions status" /></a>
+  &nbsp;
+  <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions/workflows/get-started.yml"><img src="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions/workflows/get-started.yml/badge.svg" alt="get-started workflow" /></a>
+  &nbsp;
+  <a href="https://sagarbiswas-multihat.github.io/"><img src="https://img.shields.io/badge/Website-sagarbiswas--multihat.github.io-blue?logo=github" alt="Website" /></a>
+  &nbsp;
+  <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT?style=flat" alt="License" /></a>
+  &nbsp;
+  <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT" alt="Last commit" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/github/languages/top/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT" alt="Top language" />
+</p>
+
 <p align="center"><b>Cybersecurity Enthusiast (Web App Security) • Web Developer • CSE Student (AIUB)</b></p>
 
 Sagar Biswas is a Computer Science and Engineering (CSE) student at American International University–Bangladesh (AIUB), a cybersecurity enthusiast, ethical hacker (web application security), and web developer.

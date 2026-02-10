@@ -194,7 +194,9 @@ If you discover a security issue in any of my projects, please contact me direct
 
 ---
 
-<details><summary><h2>📂 My More Work</h2></summary>
+<br>
+
+<details><summary><span style="font-size:1.5em; font-weight:bold;">📂 My More Work</span></summary>
 
 <div align="center"><h2>📔NoteBooks AND Facebook Community Group</h2></div>
 
