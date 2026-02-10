@@ -190,7 +190,7 @@ If you discover a security issue in any of my projects, please contact me direct
 
 ## Footer / Quick Links
 
-- Resume: [resume PDF](https://drive.google.com/file/d/18BtEroNdT2t8sqlcxrE7hS-7aAeHLydd/view?usp=sharing)
+- Resume: [resume PDF](https://drive.google.com/file/d/1Nmw1AilvcUpdACU9OHfCFCIWXuxciAJK/view?usp=sharing)
 
 - Certifications: [Google Drive](https://drive.google.com/drive/folders/1t2Lb7s9-zADwRKmO2ctyqVGQkYJw3NGg?usp=sharing)
 
