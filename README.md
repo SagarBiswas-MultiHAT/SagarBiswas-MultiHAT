@@ -41,7 +41,7 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 
 <br>
 
-![I am a Coder | Web Developer | Web Penetration Tester](https://i.imgur.com/R358HbT.png)
+![I am a Coder | Web Developer | Web Penetration Tester](resources/coverPhoto.jpg)
 
 👋 About Me
 
