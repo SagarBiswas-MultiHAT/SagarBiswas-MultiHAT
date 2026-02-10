@@ -111,7 +111,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 
 ---
 
-## Connect with me
+<h3 align="left">Connect with me</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sagarbiswas-multihat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagarbiswas-multihat" height="30" width="40" /></a>
@@ -119,12 +119,9 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 <a href="https://www.instagram.com/0_sagar_biswas_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/0_sagar_biswas_0/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@SagarsCodeCraft-mf7hq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sagarscodecraft-mf7hq" height="30" width="40" /></a>
 <a href="https://codeforces.com" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?logo=codeforces&logoColor=white" alt="Codeforces" height="25" width="110" /></a>
-<br>
 </p>
 
----
-
-## Labs & Learning
+<h3 align="left">Labs & Learning</h3>
 
 <p align="left">
   <a href="https://portswigger.net/web-security" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-8B5CF6?style=flat" alt="PortSwigger Web Security Academy" /></a>
@@ -136,7 +133,8 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
   <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hack%20The%20Box-Labs-0EA5E9?style=flat" alt="Hack The Box" /></a>
 </p>
 
-## Languages and Tools:
+
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
@@ -163,10 +161,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 
 ---
 
-<br>
-
-<h3 align="left">GitHub Analytics</h3>
-
+<h2 align="left">GitHub Analytics</h2>
 
 | Status | Daily Streak |
 |--------|--------------|
@@ -225,7 +220,7 @@ If you discover a security issue in any of my projects, please contact me direct
 
 <br>
 
-<details><summary><span style="font-size:1.5em; font-weight:bold;">📂 My More Work</span></summary>
+<details><summary><strong>📂 My More Work</strong></summary>
 
 <div align="center"><h2>📔NoteBooks AND Facebook Community Group</h2></div>
 
