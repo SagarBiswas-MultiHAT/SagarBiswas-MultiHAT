@@ -161,7 +161,9 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 
 ---
 
-<h2 align="left">GitHub Analytics</h2>
+<br>
+
+<h3 align="left">GitHub Analytics</h3>
 
 | Status | Daily Streak |
 |--------|--------------|
