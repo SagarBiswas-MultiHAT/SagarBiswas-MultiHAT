@@ -85,6 +85,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 
 ---
 
+
 <h2 align="center">Featured</h2>
 <p align="center">
   <a href="https://youtu.be/oUp4SWSrYYk?si=7F3ZTdetR5qVf-4Y" target="_blank">
@@ -110,7 +111,8 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 
 ---
 
-<h3 align="left">Connect with me</h3>
+## Connect with me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/sagarbiswas-multihat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagarbiswas-multihat" height="30" width="40" /></a>
 <a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/0sagarbiswas0" height="30" width="40" /></a>
@@ -134,7 +136,8 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
   <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hack%20The%20Box-Labs-0EA5E9?style=flat" alt="Hack The Box" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
+
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
@@ -161,6 +164,8 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 ---
 
 <br>
+
+<h3 align="left">GitHub Analytics</h3>
 
 
 | Status | Daily Streak |
@@ -218,7 +223,9 @@ If you discover a security issue in any of my projects, please contact me direct
 
 ---
 
-<details><summary><h2>📂 My More Work</h2></summary>
+<br>
+
+<details><summary><span style="font-size:1.5em; font-weight:bold;">📂 My More Work</span></summary>
 
 <div align="center"><h2>📔NoteBooks AND Facebook Community Group</h2></div>
 
