@@ -159,31 +159,6 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 
 ---
 
-<div align="center">
-
-<h2 align="left">GitHub Analytics</h2>
-
-| Status | Daily Streak |
-|--------|--------------|
-|                       |
-| ![](https://github-readme-stats-sigma-five.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github) | ![](https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&theme=radical&hide_border=true) |
-
-| Weekly Streak | Most Used Languages |
-|--------------|--------------------  |
-|                                     |
-| ![](https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&mode=weekly&theme=radical&hide_border=true) | ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&theme=tokyonight&hide_border=true) |
-
-| GitHub Activity |
-|-----------------|
-|                 |
-| ![](https://github-readme-activity-graph.vercel.app/graph?username=SagarBiswas-MultiHAT&theme=github-compact&hide_border=true) |
-
-</div>
-
-<br>
-
----
-
 ## Security / Responsible Disclosure
 
 If you discover a security issue in any of my projects, please contact me directly at <a href="https://www.facebook.com/0sagarbiswas0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sagar Biswas-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook Group" /></a>
