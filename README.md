@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/github/languages/top/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT" alt="Top language" />
 </p>
 
+---
+
 <p align="center"><b>Cybersecurity Enthusiast (Web App Security) • Web Developer • CSE Student (AIUB)</b></p>
 
 Sagar Biswas is a Computer Science and Engineering (CSE) student at American International University–Bangladesh (AIUB), a cybersecurity enthusiast, ethical hacker (web application security), and web developer.
