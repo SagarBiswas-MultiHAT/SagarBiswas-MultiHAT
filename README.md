@@ -161,6 +161,8 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 
 ---
 
+<div align="center">
+
 <h2 align="left">GitHub Analytics</h2>
 
 | Status | Daily Streak |
@@ -178,6 +180,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
 |                 |
 | ![](https://github-readme-activity-graph.vercel.app/graph?username=SagarBiswas-MultiHAT&theme=github-compact&hide_border=true) |
 
+</div>
 
 <br>
 
