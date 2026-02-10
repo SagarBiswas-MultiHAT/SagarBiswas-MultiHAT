@@ -41,8 +41,6 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 
 <br>
 
-![I am a Coder — Web Developer — Web Penetration Tester](https://raw.githubusercontent.com/SagarBiswas-MultiHAT/main/resources/coverPhoto.jpg)
-
 👋 About Me
 
 Hi! I’m Sagar Biswas, a passionate coder, web developer, and aspiring web penetration tester from Bangladesh. With a strong foundation in computer science, I’m on a mission to master the art of cybersecurity and make the web a safer place.
