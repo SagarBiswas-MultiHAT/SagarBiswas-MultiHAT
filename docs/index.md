@@ -114,9 +114,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
       loading="lazy"
     />
   </a>
-</p>
 
-<p align="center">
   <a href="https://youtu.be/taQ3kKomMw0?si=7F3ZTdetR5qVf-4Y" target="_blank">
     <img
       src="https://img.youtube.com/vi/taQ3kKomMw0/hqdefault.jpg"
