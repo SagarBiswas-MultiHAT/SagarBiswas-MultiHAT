@@ -59,13 +59,9 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
   <a href="https://www.youtube.com/@Sagar-MultiHAT" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-MultiHAT-FF0000?logo=youtube&logoColor=white&style=flat" alt="YouTube" /></a>
 </p>
 
----
 <br>
 
 ![I am a Coder | Web Developer | Web Penetration Tester](resources/coverPhoto.jpg)
-
----
-<br>
 
 👋 About Me
 
