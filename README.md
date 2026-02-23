@@ -7,13 +7,13 @@
   &nbsp;
   <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions/workflows/get-started.yml"><img src="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions/workflows/get-started.yml/badge.svg" alt="get-started workflow" /></a>
   &nbsp;
-  <a href="https://sagarbiswas-multihat.github.io/"><img src="https://img.shields.io/badge/Website-sagarbiswas--multihat.github.io-blue?logo=github" alt="Website" /></a>
-  &nbsp;
   <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT?style=flat" alt="License" /></a>
   &nbsp;
   <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT" alt="Last commit" /></a>
   &nbsp;
   <img src="https://img.shields.io/github/languages/top/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT" alt="Top language" />
+  &nbsp;
+  <a href="https://sagarbiswas-multihat.github.io/"><img src="https://img.shields.io/badge/Website-sagarbiswas--multihat.github.io-blue?logo=github" alt="Website" /></a>
 </p>
 
 ---
