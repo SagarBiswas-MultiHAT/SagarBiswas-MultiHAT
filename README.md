@@ -12,7 +12,7 @@
   <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT" alt="Last commit" /></a>
   &nbsp;
   <img src="https://img.shields.io/github/languages/top/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT" alt="Top language" />
-  &nbsp;
+  <br>
   <a href="https://sagarbiswas-multihat.github.io/"><img src="https://img.shields.io/badge/Website-sagarbiswas--multihat.github.io-blue?logo=github" alt="Website" /></a>
 </p>
 
@@ -109,15 +109,6 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScrip
   <a href="https://youtu.be/oUp4SWSrYYk?si=7F3ZTdetR5qVf-4Y" target="_blank">
     <img
       src="https://img.youtube.com/vi/oUp4SWSrYYk/hqdefault.jpg"
-      alt="Play the featured YouTube video"
-      width="680"
-      loading="lazy"
-    />
-  </a>
-
-  <a href="https://youtu.be/taQ3kKomMw0?si=7F3ZTdetR5qVf-4Y" target="_blank">
-    <img
-      src="https://img.youtube.com/vi/taQ3kKomMw0/hqdefault.jpg"
       alt="Play the featured YouTube video"
       width="680"
       loading="lazy"
