@@ -243,6 +243,8 @@ If you discover a security issue in any of my projects, please contact me direct
   <a href="https://github.com/SagarBiswas-MultiHAT/noteBooks-maintainingBYme">
     <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=noteBooks-maintainingBYme&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Google_Dorks_Notebook"></a>
 
+<br>
+
     NOTE: To find more notebooks, projects, tips and tricks like this, join my Facebook community group and check the featured section for notebooks and explore the Posts to discover real-world projects.
 
 <div align="center">
@@ -356,9 +358,6 @@ If you discover a security issue in any of my projects, please contact me direct
     
   <a href="https://github.com/SagarBiswas-MultiHAT/domain2ip">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=domain2ip&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="domain2ip"></a>
-
-
-
 </p>
 
 
@@ -429,20 +428,12 @@ If you discover a security issue in any of my projects, please contact me direct
 
 <p align="center">
 
-  <a href="https://github.com/SagarBiswas-MultiHAT/Wi-Fi_dictionary_attack">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Wi-Fi_dictionary_attack&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Web_Vulnerability_Scanner"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Clean_Temporary_Files-Windows">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Clean_Temporary_Files-Windows&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Clean_Temporary_Files-Windows"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Fake_FACEBOOK_Login_Page">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Fake_FACEBOOK_Login_Page&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Fake_FACEBOOK_Login_Page"></a>
+  <a href="https://github.com/SagarBiswas-MultiHAT/Password-Strength-Checker">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Password-Strength-Checker&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Password-Strength-Checker"></a>
 
   <a href="https://github.com/SagarBiswas-MultiHAT/XSS-WebGuard">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=XSS-WebGuard&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="XSS-WebGuard"></a>
 
-  <a href="https://github.com/SagarBiswas-MultiHAT/Password-Strength-Checker">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Password-Strength-Checker&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Password-Strength-Checker"></a>
 
   <a href="https://github.com/SagarBiswas-MultiHAT/Port_Scanner-Python">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Port_Scanner-Python&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Port_Scanner-Python"></a>
@@ -450,38 +441,9 @@ If you discover a security issue in any of my projects, please contact me direct
   <a href="https://github.com/SagarBiswas-MultiHAT/RandomPasswordGeneratorCpp">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=RandomPasswordGeneratorCpp&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="RandomPasswordGeneratorCpp"></a>
 
-  <a href="https://github.com/SagarBiswas-MultiHAT/TinyURL-Shortener">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=TinyURL-Shortener&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="TinyURL-Shortener"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/python-alarm-clock">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=python-alarm-clock&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="python-alarm-clock"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Simple_Text_Editor">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Simple_Text_Editor&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Simple_Text_Editor"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/text-bombing">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=text-bombing&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="text-bombing"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/secure-login-system">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=secure-login-system&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="secure-login-system"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Image_to_PDF_Converter">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Image_to_PDF_Converter&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Image_to_PDF_Converter"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Scientific_Calculator">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Scientific_Calculator&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Scientific_Calculator"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Hash_Password_Cracker">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Hash_Password_Cracker&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Hash_Password_Cracker"></a>
-
   <a href="https://github.com/SagarBiswas-MultiHAT/virusNewFolder">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=virusNewFolder&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="virusNewFolder"></a>
 
-  <a href="https://github.com/SagarBiswas-MultiHAT/web-source-code_downloader">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=web-source-code_downloader&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="web-source-code_downloader"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/domain-to-ip">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=domain-to-ip&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="domain-to-ip"></a>
 </p>
 
 <div align="center"><h2>Collected Projects</h2></div>
