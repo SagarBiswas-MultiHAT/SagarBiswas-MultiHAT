@@ -9,9 +9,9 @@
   &nbsp;
   <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT?style=flat" alt="License" /></a>
   &nbsp;
-  <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT" alt="Last commit" /></a>
+  <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/main" alt="Last commit" /></a>
   &nbsp;
-  <img src="https://img.shields.io/github/languages/top/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT" alt="Top language" />
+  <img src="https://img.shields.io/badge/Top%20language-Markdown-083fa1?logo=markdown&logoColor=white" alt="Top language" />
 
 </p>
 
