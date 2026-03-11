@@ -81,15 +81,6 @@ Currently, I’m focused on:
     Developing secure and efficient web applications.
     Strengthening my knowledge of programming languages like Python, C++, Bash scripting, and more.
 
-🌱 What I’m Learning
-
-To achieve my goals, I’m diving into:
-
-    Web security fundamentals: Mastering concepts like XSS, SQL injection, and CSRF.
-    Penetration testing tools: Exploring Burp Suite, OWASP ZAP, Metasploit, and other industry-standard tools.
-    Advanced coding practices: Writing robust, secure code to prevent vulnerabilities.
-    Networking basics: Understanding protocols like HTTP/HTTPS, DNS, and TCP/IP.
-
 📫 Let’s Connect!
 
 I’m always eager to connect with fellow developers, cybersecurity enthusiasts, and learners. Check out my repositories to see what I’m working on, or feel free to reach out. Let’s collaborate, share ideas, and grow together! 🚀
