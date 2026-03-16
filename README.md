@@ -16,8 +16,9 @@
 </p>
 
 <p align="center">
-  <a href="https://sagarbiswas-multihat.github.io/"><img src="https://img.shields.io/badge/Website-sagarbiswas--multihat.github.io-blue?logo=github" alt="Website" /></a>
-  
+  <a href="https://sagarbiswas-multihat.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Sagar%20Biswas-blue?style=for-the-badge" />
+  </a>
 </p>
 
 ---
