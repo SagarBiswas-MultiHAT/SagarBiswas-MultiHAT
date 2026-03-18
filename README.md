@@ -68,7 +68,7 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 
 👋 About Me
 
-Hi! I’m Sagar Biswas, a passionate coder, web developer, and aspiring web penetration tester from Bangladesh. With a strong foundation in computer science, I’m on a mission to master the art of cybersecurity and make the web a safer place.
+Hi! I’m Sagar Biswas, a passionate coder, web developer, and focused on web application security assessment and vulnerability analysis from Bangladesh. With a strong foundation in computer science, I’m on a mission to master the art of cybersecurity and make the web a safer place.
 
 🌟 What I’m About
 
@@ -86,7 +86,7 @@ Currently, I’m focused on:
 
 I’m always eager to connect with fellow developers, cybersecurity enthusiasts, and learners. Check out my repositories to see what I’m working on, or feel free to reach out. Let’s collaborate, share ideas, and grow together! 🚀
 
-Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | DuckyScripts | html | css | javascript | PHP | React |
+Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | html | css | JSON | javascript | AJAX | PHP | React | NestJS | Web Security.
 
 - 🔭 I’m currently working on Exploring advanced penetration testing techniques and applying them to real-world scenarios.
 - 🌱 I’m currently learning CSE at American International University Bangladesh (AIUB).
