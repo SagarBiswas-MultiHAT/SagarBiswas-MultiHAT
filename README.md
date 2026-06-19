@@ -66,11 +66,19 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 
 ![I am a Coder | Web Developer | Web Penetration Tester](resources/coverPhoto.jpg)
 
+---
+
 ☯️ Live From Private Repos:
 
-1. PromptVault - A collection of AI prompts for various use cases, including cybersecurity, programming, and general productivity.
+1. PromptVault - Your private, offline-first library for AI prompts. Securely save, organize, and perfect your instructions using a built-in AI Librarian. Features PIN-protection, categories, fill-in-the-blank variables, and optional cloud sync. Own your workflow without subscriptions. 🚀🔒
 
    Link: https://promptvault.multihat.dev/
+
+2. PhishGuard is a fast-paced web game that trains your instincts against email phishing. Powered by a Dual-AI Consensus Engine (OpenRouter & Groq), it generates and verifies highly realistic, unique phishing scenarios in real-time. Can you spot the scam before the 10-second timer runs out?
+
+  Link: https://phishguard.multihat.dev/
+
+---
 
 👋 About Me
 
