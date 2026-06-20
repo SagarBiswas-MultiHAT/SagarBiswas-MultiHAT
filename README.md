@@ -80,6 +80,14 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 
 ---
 
+📢 Live From Public Repos:
+
+1. WiFi-QR-Generator - Generate Wi‑Fi QR codes instantly in your browser, no backend required. Supports WPA/WPA2, WEP, and open networks; hidden SSIDs; adjustable size and error correction; export PNG or SVG; copy raw Wi‑Fi payload; offline-friendly (local QR lib). Privacy-first: nothing leaves your device.
+
+   Link: https://wifi.multihat.dev/qr
+
+---
+
 👋 About Me
 
 Hi! I’m Sagar Biswas, a passionate coder, web developer, and focused on web application security assessment and vulnerability analysis from Bangladesh. With a strong foundation in computer science, I’m on a mission to master the art of cybersecurity and make the web a safer place.
