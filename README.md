@@ -78,6 +78,10 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 
    Link: https://phishguard.multihat.dev/
 
+3. sydneywheelsandtyres - A premium, high-performance static marketing website for Sydney Wheels & Tyres. Built with Next.js, TypeScript, and Tailwind v4, it features immersive UI animations, 3D tilt cards, automated sitemaps, and rich local business schema. Designed to maximize SEO discoverability, showcase auto services, and drive customer bookings in Campbellfield.
+
+   Link: https://sydneywheelsandtyres.com.au/
+
 ---
 
 📢 Live From Public Repos:
