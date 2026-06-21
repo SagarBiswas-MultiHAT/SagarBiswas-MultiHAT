@@ -82,6 +82,10 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 
    Link: https://sydneywheelsandtyres.com.au/
 
+4. sagarbiswas-multihat.github.io - A privacy-first, static developer & cybersecurity portfolio for Sagar Biswas (MultiHAT). Fast, SEO-friendly GitHub Pages site showcasing projects, tutorials, and blog posts; includes RSS, sitemap, responsive design, and easy rebuild scripts—ideal for sharing work, demos, and technical write-ups.
+
+   Link: https://sagarbiswas.multihat.dev/
+   
 ---
 
 📢 Live From Public Repos:
@@ -90,6 +94,10 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 
    Link: https://wifi.multihat.dev/qr
 
+2. Password-Strength-Checker - A polished, accessible client-side password strength checker that estimates entropy, detects weak patterns, and provides actionable suggestions. Includes a built-in password generator, works fully offline with no network calls, and uses ARIA live updates for accessibility. Ideal for demos, portfolios, or frontend components.
+   
+   Link: http://psc.multihat.dev/
+   
 ---
 
 👋 About Me
