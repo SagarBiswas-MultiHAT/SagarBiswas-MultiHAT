@@ -51,7 +51,7 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 <p align="center">
   <a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-Community-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook Group" /></a>
   &nbsp;
-  <a href="mailto:eng.sagar.aiub@gmail.com"><img src="https://img.shields.io/badge/Email-eng.sagar.aiub%40gmail.com-informational?style=flat" alt="Email" /></a>
+  <a href="mailto:sagarbiswas@multihat.dev"><img src="https://img.shields.io/badge/Email-sagarbiswas%40multihat.dev-informational?style=flat" alt="Email" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sagarbiswas-multihat/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" /></a>
   &nbsp;
@@ -127,7 +127,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | html | css
 - 👯 I’m looking to collaborate on Open-source projects focused on cybersecurity and web security.
 - 🤔 I’m looking for help with Improving my penetration testing skills and learning advanced techniques.
 - 💬 Ask me about Programming Languages, Network Security, Linux Tools.
-- 📫 How to reach me: eng.sagar.aiub@gmail.com || 01727361077
+- 📫 How to reach me: sagarbiswas@multihat.dev || 01727361077
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My biggest weakness: when I am engaged with any work, I can't keep concerned with other work without finishing that.
 
@@ -201,7 +201,7 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | html | css
 ## Security / Responsible Disclosure
 
 If you discover a security issue in any of my projects, please contact me directly at <a href="https://www.facebook.com/0sagarbiswas0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sagar Biswas-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook Group" /></a>
-&nbsp; OR [**eng.sagar.aiub@gmail.com**](mailto:eng.sagar.aiub@gmail.com) with details. Do not post exploit details publicly until we discuss and agree on responsible disclosure and remediation.
+&nbsp; OR [**sagarbiswas@multihat.dev**](mailto:sagarbiswas@multihat.dev) with details. Do not post exploit details publicly until we discuss and agree on responsible disclosure and remediation.
 
 ## Footer / Quick Links
 
