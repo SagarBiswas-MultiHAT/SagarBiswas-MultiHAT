@@ -85,7 +85,11 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 4. sagarbiswas-multihat.github.io - A privacy-first, static developer & cybersecurity portfolio for Sagar Biswas (MultiHAT). Fast, SEO-friendly GitHub Pages site showcasing projects, tutorials, and blog posts; includes RSS, sitemap, responsive design, and easy rebuild scripts—ideal for sharing work, demos, and technical write-ups.
 
    Link: https://sagarbiswas.multihat.dev/
-   
+
+5. multihat.dev - This is my personal cyber-themed command deck showcasing AI systems, cybersecurity tools, and high-performance web apps. Built with Next.js 15 and Tailwind, it features a privacy-first architecture and robust SEO to highlight live projects like PromptVault and PhishGuard.
+
+   Link: https://multihat.dev/
+
 ---
 
 📢 Live From Public Repos:
