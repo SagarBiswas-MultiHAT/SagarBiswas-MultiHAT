@@ -97,7 +97,11 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 2. Password-Strength-Checker - A polished, accessible client-side password strength checker that estimates entropy, detects weak patterns, and provides actionable suggestions. Includes a built-in password generator, works fully offline with no network calls, and uses ARIA live updates for accessibility. Ideal for demos, portfolios, or frontend components.
    
    Link: http://psc.multihat.dev/
-   
+
+3. SharpLink-URL-Allies - A clean Flask-based URL shortener that converts long links into short, shareable URLs with optional custom aliases, expiration support, and TinyURL mirroring. Uses SQLite for persistence, includes copy helpers, rate limiting, and a simple REST API. Ideal for learning backend fundamentals and deployment.
+
+   Link: https://sharplink.onrender.com/
+
 ---
 
 👋 About Me
