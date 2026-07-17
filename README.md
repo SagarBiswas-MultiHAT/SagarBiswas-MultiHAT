@@ -90,6 +90,10 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 
    Link: https://multihat.dev/
 
+6. MultiHAT Academy is a full-stack e-learning platform that turns technical notebooks into premium, verifiable micro-credentials. Built with Next.js 15 and NestJS 11, it features dynamic watermarked e-books, interactive quizzes, public certificates, a built-in Wallet, referral rewards, and native aamarPay integration for seamless local payments.
+
+   Link: https://academy.multihat.dev
+
 ---
 
 📢 Live From Public Repos:
