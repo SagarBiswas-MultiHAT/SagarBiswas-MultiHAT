@@ -241,7 +241,11 @@ If you discover a security issue in any of my projects, please contact me direct
 
 ---
 
-<img align="center" alt="Coding" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<div align="center">
+
+<img alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+</div>
 
 ---
 
