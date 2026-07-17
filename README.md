@@ -241,6 +241,10 @@ If you discover a security issue in any of my projects, please contact me direct
 
 ---
 
+<img align="center" alt="Coding" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+---
+
 <details><summary><h2>📂 My More Work</h2></summary>
 
 <div align="center"><h2>📔NoteBooks AND Facebook Community Group</h2></div>
