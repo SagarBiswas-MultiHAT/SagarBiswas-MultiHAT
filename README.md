@@ -225,15 +225,15 @@ If you discover a security issue in any of my projects, please contact me direct
 
 <br>
 
-![Certified Phishing Prevention Specialist (CPPS)](https://imgur.com/XV4xhx6.png)
+![Certified Phishing Prevention Specialist (CPPS)](<resources/Certifications/Certified Phishing Prevention Specialist (CPPS)_page-0001.jpg>)
 
 <br>
 
-3. Certified Red Certificate
+2. Certified Red Certificate
 
 <br>
 
-![Certified Red Certificate](https://imgur.com/T6XSz8p.png)
+![Certified Red Certificate](resources/Certifications/certified_red_certificate_page-0001.jpg)
 
 </details>
 
