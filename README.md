@@ -189,13 +189,20 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | html | css
 
 <h2 align="left">GitHub Analytics</h2>
 
-| Status | Daily Streak |
-| :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github) | ![GitHub Streak](https://streak-stats.demolab.com/?user=SagarBiswas-MultiHAT&theme=radical&hide_border=true) |
+| Status                                                                                                                                                      | Daily Streak                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+|                                                                                                                                                             |
+| ![](https://github-readme-stats-sigma-five.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github) | ![](https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&theme=radical&hide_border=true) |
 
-| Weekly Streak | Most Used Languages |
-| :---: | :---: |
-| ![Weekly Streak](https://streak-stats.demolab.com/?user=SagarBiswas-MultiHAT&mode=weekly&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&theme=tokyonight&hide_border=true) |
+| Weekly Streak                                                                                              | Most Used Languages                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                            |
+| ![](https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&mode=weekly&theme=radical&hide_border=true) | ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&theme=tokyonight&hide_border=true) |
+
+| GitHub Activity                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+|                                                                                                                                |
+| ![](https://github-readme-activity-graph.vercel.app/graph?username=SagarBiswas-MultiHAT&theme=github-compact&hide_border=true) |
 
 </div>
 
