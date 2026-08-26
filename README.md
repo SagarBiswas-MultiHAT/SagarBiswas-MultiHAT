@@ -70,6 +70,26 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 
 ☯️ Live From Private Repos:
 
+1. sydneywheelsandtyres - A premium, high-performance static marketing website for Sydney Wheels & Tyres. Built with Next.js, TypeScript, and Tailwind v4, it features immersive UI animations, 3D tilt cards, automated sitemaps, and rich local business schema. Designed to maximize SEO discoverability, showcase auto services, and drive customer bookings in Campbellfield.
+
+   Link: https://sydneywheelsandtyres.com.au/
+
+2. sagarbiswas-multihat.github.io - A privacy-first, static developer & cybersecurity portfolio for Sagar Biswas (MultiHAT). Fast, SEO-friendly GitHub Pages site showcasing projects, tutorials, and blog posts; includes RSS, sitemap, responsive design, and easy rebuild scripts—ideal for sharing work, demos, and technical write-ups.
+
+   Link: https://sagarbiswas.multihat.dev/
+
+3. multihat.dev - This is my personal cyber-themed command deck showcasing AI systems, cybersecurity tools, and high-performance web apps. Built with Next.js 15 and Tailwind, it features a privacy-first architecture and robust SEO to highlight live projects like PromptVault and PhishGuard.
+
+   Link: https://multihat.dev/
+
+4. MultiHAT Academy is a full-stack e-learning platform that turns technical notebooks into premium, verifiable micro-credentials. Built with Next.js 15 and NestJS 11, it features dynamic watermarked e-books, interactive quizzes, public certificates, a built-in Wallet, referral rewards, and native aamarPay integration for seamless local payments.
+
+   Link: https://academy.multihat.dev
+
+---
+
+📢 Live From Public Repos:
+
 1. PromptVault - Your private, offline-first library for AI prompts. Securely save, organize, and perfect your instructions using a built-in AI Librarian. Features PIN-protection, categories, fill-in-the-blank variables, and optional cloud sync. Own your workflow without subscriptions. 🚀🔒
 
    Link: https://promptvault.multihat.dev/
@@ -78,35 +98,15 @@ This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas
 
    Link: https://phishguard.multihat.dev/
 
-3. sydneywheelsandtyres - A premium, high-performance static marketing website for Sydney Wheels & Tyres. Built with Next.js, TypeScript, and Tailwind v4, it features immersive UI animations, 3D tilt cards, automated sitemaps, and rich local business schema. Designed to maximize SEO discoverability, showcase auto services, and drive customer bookings in Campbellfield.
-
-   Link: https://sydneywheelsandtyres.com.au/
-
-4. sagarbiswas-multihat.github.io - A privacy-first, static developer & cybersecurity portfolio for Sagar Biswas (MultiHAT). Fast, SEO-friendly GitHub Pages site showcasing projects, tutorials, and blog posts; includes RSS, sitemap, responsive design, and easy rebuild scripts—ideal for sharing work, demos, and technical write-ups.
-
-   Link: https://sagarbiswas.multihat.dev/
-
-5. multihat.dev - This is my personal cyber-themed command deck showcasing AI systems, cybersecurity tools, and high-performance web apps. Built with Next.js 15 and Tailwind, it features a privacy-first architecture and robust SEO to highlight live projects like PromptVault and PhishGuard.
-
-   Link: https://multihat.dev/
-
-6. MultiHAT Academy is a full-stack e-learning platform that turns technical notebooks into premium, verifiable micro-credentials. Built with Next.js 15 and NestJS 11, it features dynamic watermarked e-books, interactive quizzes, public certificates, a built-in Wallet, referral rewards, and native aamarPay integration for seamless local payments.
-
-   Link: https://academy.multihat.dev
-
----
-
-📢 Live From Public Repos:
-
-1. WiFi-QR-Generator - Generate Wi‑Fi QR codes instantly in your browser, no backend required. Supports WPA/WPA2, WEP, and open networks; hidden SSIDs; adjustable size and error correction; export PNG or SVG; copy raw Wi‑Fi payload; offline-friendly (local QR lib). Privacy-first: nothing leaves your device.
+3. WiFi-QR-Generator - Generate Wi‑Fi QR codes instantly in your browser, no backend required. Supports WPA/WPA2, WEP, and open networks; hidden SSIDs; adjustable size and error correction; export PNG or SVG; copy raw Wi‑Fi payload; offline-friendly (local QR lib). Privacy-first: nothing leaves your device.
 
    Link: https://wifi.multihat.dev/qr
 
-2. Password-Strength-Checker - A polished, accessible client-side password strength checker that estimates entropy, detects weak patterns, and provides actionable suggestions. Includes a built-in password generator, works fully offline with no network calls, and uses ARIA live updates for accessibility. Ideal for demos, portfolios, or frontend components.
+4. Password-Strength-Checker - A polished, accessible client-side password strength checker that estimates entropy, detects weak patterns, and provides actionable suggestions. Includes a built-in password generator, works fully offline with no network calls, and uses ARIA live updates for accessibility. Ideal for demos, portfolios, or frontend components.
    
    Link: http://psc.multihat.dev/
 
-3. SharpLink-URL-Allies - A clean Flask-based URL shortener that converts long links into short, shareable URLs with optional custom aliases, expiration support, and TinyURL mirroring. Uses SQLite for persistence, includes copy helpers, rate limiting, and a simple REST API. Ideal for learning backend fundamentals and deployment.
+5. SharpLink-URL-Allies - A clean Flask-based URL shortener that converts long links into short, shareable URLs with optional custom aliases, expiration support, and TinyURL mirroring. Uses SQLite for persistence, includes copy helpers, rate limiting, and a simple REST API. Ideal for learning backend fundamentals and deployment.
 
    Link: https://sharplink.onrender.com/
 
