@@ -192,17 +192,17 @@ Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | html | css
 | Status                                                                                                                                                      | Daily Streak                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 |                                                                                                                                                             |
-| ![](https://github-readme-stats-sigma-five.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github) | ![](https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&theme=radical&hide_border=true) |
+| ![](https://github-readme-stats-ebon-theta-13.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github) | ![](https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&theme=radical&hide_border=true) |
 
 | Weekly Streak                                                                                              | Most Used Languages                                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                                                                                                            |
-| ![](https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&mode=weekly&theme=radical&hide_border=true) | ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&theme=tokyonight&hide_border=true) |
+| ![](https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&mode=weekly&theme=radical&hide_border=true) | ![](https://github-readme-stats-ebon-theta-13.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&theme=tokyonight&hide_border=true) |
 
 | GitHub Activity                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 |                                                                                                                                |
-| ![](https://github-readme-activity-graph.vercel.app/graph?username=SagarBiswas-MultiHAT&theme=github-compact&hide_border=true) |
+| ![](https://github-readme-activity-graph-five-theta.vercel.app/graph?username=SagarBiswas-MultiHAT&theme=github-compact&hide_border=true) |
 
 </div>
 
