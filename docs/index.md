@@ -22,6 +22,12 @@
 
 I work both sides of the same problem: breaking web applications to understand how they fail, then building and hardening them so they don't. That split is the whole job: **web application security and ethical hacking** on one side, **full-stack engineering** on the other. I run both under **[MultiHAT](https://multihat.dev/)**, the software and security studio I founded in Dhaka, Bangladesh.
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/main/resources/coverPhoto.jpg" alt="Sagar Biswas: Operator Field Photo" width="100%" />
+
+<br/>
+
 | | |
 |---|---|
 | **Callsign** | Sagar Biswas · `SagarBiswas-MultiHAT` |
@@ -32,6 +38,8 @@ I work both sides of the same problem: breaking web applications to understand h
 | **Status** | Open to security-tooling collaborations and technical roles |
 
 The long-form version of this (verified evidence, no inflated metrics) lives in the [operator dossier](https://sagarbiswas-multihat.github.io/about/).
+
+</div>
 
 ---
 
@@ -120,9 +128,13 @@ Full provenance and verification links: [Credential Vault →](https://sagarbisw
 <div align="center">
 
 <img src="https://stats-sagarbiswas-multihat.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4&icon_color=49d3ff&border_color=15181f&rank_icon=github" alt="Sagar Biswas's GitHub stats" height="165" />
+<img src="https://stats-sagarbiswas-multihat.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4" alt="Most used languages" height="165" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&hide_border=true&background=050506&ring=49d3ff&fire=49d3ff&currStreakLabel=49d3ff&sideLabels=aab4c4&currStreakNum=eef1f5&sideNums=eef1f5&dates=5c6577" alt="GitHub streak stats" height="165" />
 
-<img src="https://stats-sagarbiswas-multihat.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4" alt="Most used languages" height="165" />
+<br/>
 
 <img src="https://graph-sagarbiswas-multihat.vercel.app/graph?username=SagarBiswas-MultiHAT&hide_border=true&bg_color=050506&color=aab4c4&line=49d3ff&point=eef1f5" alt="Contribution activity graph" width="90%" />
 

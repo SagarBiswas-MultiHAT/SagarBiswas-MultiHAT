@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="resources/banner.svg" alt="Sagar Biswas — security engineer, full-stack developer, and founder of MultiHAT, based in Dhaka, Bangladesh" width="100%" />
+<img src="resources/banner.svg" alt="Sagar Biswas: security engineer, full-stack developer, and founder of MultiHAT, based in Dhaka, Bangladesh" width="100%" />
+
+---
 
 <br/>
 
@@ -16,22 +18,28 @@
 
 </div>
 
-<br/>
-
 ## Field File
 
-I work both sides of the same problem: breaking web applications to understand how they fail, then building and hardening them so they don't. That split is the whole job — **web application security and ethical hacking** on one side, **full-stack engineering** on the other — and I run both under **[MultiHAT](https://multihat.dev/)**, the software and security studio I founded in Dhaka, Bangladesh.
+I work both sides of the same problem: breaking web applications to understand how they fail, then building and hardening them so they don't. That split is the whole job (**web application security and ethical hacking** on one side, **full-stack engineering** on the other), and I run both under **[MultiHAT](https://multihat.dev/)**, the software and security studio I founded in Dhaka, Bangladesh.
+
+<div align="center">
+
+<img src="resources/coverPhoto.jpg" alt="Sagar Biswas: Operator Field Photo" width="100%" />
+
+<br/>
 
 | | |
 |---|---|
 | **Callsign** | Sagar Biswas · `SagarBiswas-MultiHAT` |
 | **Role** | Founder, MultiHAT · Web Application Security Engineer · Full-Stack Developer · AI Integrator |
-| **Studying** | BSc in Computer Science & Engineering, American International University–Bangladesh (AIUB) |
+| **Studying** | BSc in Computer Science & Engineering, American International University-Bangladesh (AIUB) |
 | **Stack** | Python, C/C++/C#, Bash · Next.js, React, Node.js, NestJS · PHP · Docker |
 | **Focus** | Web app penetration testing, OSINT, and production-grade engineering with Next.js/NestJS |
 | **Status** | Open to security-tooling collaborations and technical roles |
 
-The long-form version of this — verified evidence, no inflated metrics — lives in the [operator dossier](https://sagarbiswas-multihat.github.io/about/).
+The long-form version of this (verified evidence, no inflated metrics) lives in the [operator dossier](https://sagarbiswas-multihat.github.io/about/).
+
+</div>
 
 ---
 
@@ -42,7 +50,7 @@ Same framework I use everywhere else: security work as a continuous loop, not a 
 | Vector | In practice | Dossier |
 |---|---|---|
 | **Assess** | Passive OSINT and web vulnerability mapping, scoped strictly to authorized environments and educational research | [→ Inspect](https://sagarbiswas-multihat.github.io/capabilities/#assess) |
-| **Harden** | Converting findings into resilient infrastructure — CSP, MFA, input validation, zero-trust defaults | [→ Inspect](https://sagarbiswas-multihat.github.io/capabilities/#harden) |
+| **Harden** | Converting findings into resilient infrastructure: CSP, MFA, input validation, zero-trust defaults | [→ Inspect](https://sagarbiswas-multihat.github.io/capabilities/#harden) |
 | **Govern** | Responsible disclosure, severity triage, and remediation guidance communicated in plain language | [→ Inspect](https://sagarbiswas-multihat.github.io/capabilities/#govern) |
 
 ---
@@ -53,10 +61,10 @@ Production work under the MultiHAT name.
 
 | System | What it is | Link |
 |---|---|---|
-| **MultiHAT** | Software, AI & security engineering studio — the agency behind everything here | [multihat.dev](https://multihat.dev/) |
+| **MultiHAT** | Software, AI & security engineering studio: the agency behind everything here | [multihat.dev](https://multihat.dev/) |
 | **Operator Dossier** | Recruiter-first security & software portfolio: evidence across Assess, Harden, Govern | [sagarbiswas-multihat.github.io](https://sagarbiswas-multihat.github.io/) |
 | **MultiHAT Academy** | Full-stack e-learning platform turning technical notebooks into verifiable micro-credentials (Next.js 15 + NestJS 11) | [academy.multihat.dev](https://academy.multihat.dev) |
-| **Sydney Wheels & Tyres** | Client project — premium marketing site with local business schema, built for SEO discoverability | [sydneywheelsandtyres.com.au](https://sydneywheelsandtyres.com.au/) |
+| **Sydney Wheels & Tyres** | Client project: premium marketing site with local business schema, built for SEO discoverability | [sydneywheelsandtyres.com.au](https://sydneywheelsandtyres.com.au/) |
 
 ---
 
@@ -68,7 +76,7 @@ Open-source tools, all client-side or self-hosted where it matters.
 |---|---|---|
 | **PromptVault** | Offline-first, PIN-protected library for AI prompts with a built-in AI librarian, categories, and fill-in-the-blank variables | [promptvault.multihat.dev](https://promptvault.multihat.dev/) |
 | **PhishGuard** | A 10-second phishing-detection game powered by a dual-AI consensus engine (OpenRouter + Groq) generating unique scenarios in real time | [phishguard.multihat.dev](https://phishguard.multihat.dev/) |
-| **WiFi-QR-Generator** | Browser-only Wi-Fi QR codes — WPA/WPA2/WEP, hidden SSIDs, PNG/SVG export, nothing leaves the device | [wifi.multihat.dev/qr](https://wifi.multihat.dev/qr) |
+| **WiFi-QR-Generator** | Browser-only Wi-Fi QR codes: WPA/WPA2/WEP, hidden SSIDs, PNG/SVG export, nothing leaves the device | [wifi.multihat.dev/qr](https://wifi.multihat.dev/qr) |
 | **Password-Strength-Checker** | Accessible, fully offline entropy estimator with weak-pattern detection and a built-in generator | [psc.multihat.dev](http://psc.multihat.dev/) |
 | **SharpLink-URL-Allies** | Flask URL shortener with custom aliases, expiration, SQLite persistence, and a REST API | [sharplink.onrender.com](https://sharplink.onrender.com/) |
 
@@ -78,7 +86,7 @@ More on GitHub: [github.com/SagarBiswas-MultiHAT](https://github.com/SagarBiswas
 
 ## Field Manuals & Research
 
-Longer-form technical writing and study vaults — recent entries cover post-quantum cryptography and RSA's exposure to Shor's algorithm, mapping real attacks to OSI layers, and a complete Google Dorks handbook for OSINT.
+Longer-form technical writing and study vaults: recent entries cover post-quantum cryptography and RSA's exposure to Shor's algorithm, mapping real attacks to OSI layers, and a complete Google Dorks handbook for OSINT.
 
 [→ Browse all field manuals](https://sagarbiswas-multihat.github.io/notebooks/) · [→ Read the research transmissions](https://sagarbiswas-multihat.github.io/blogs/)
 
@@ -120,9 +128,13 @@ Full provenance and verification links: [→ Credential Vault](https://sagarbisw
 <div align="center">
 
 <img src="https://stats-sagarbiswas-multihat.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4&icon_color=49d3ff&border_color=15181f&rank_icon=github" alt="Sagar Biswas's GitHub stats" height="165" />
+<img src="https://stats-sagarbiswas-multihat.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4" alt="Most used languages" height="165" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&hide_border=true&background=050506&ring=49d3ff&fire=49d3ff&currStreakLabel=49d3ff&sideLabels=aab4c4&currStreakNum=eef1f5&sideNums=eef1f5&dates=5c6577" alt="GitHub streak stats" height="165" />
 
-<img src="https://stats-sagarbiswas-multihat.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4" alt="Most used languages" height="165" />
+<br/>
 
 <img src="https://graph-sagarbiswas-multihat.vercel.app/graph?username=SagarBiswas-MultiHAT&hide_border=true&bg_color=050506&color=aab4c4&line=49d3ff&point=eef1f5" alt="Contribution activity graph" width="90%" />
 
@@ -142,13 +154,13 @@ Full provenance and verification links: [→ Credential Vault](https://sagarbisw
 
 </div>
 
-Founder-to-founder, recruiter, or fellow researcher — the fastest path in is email. For scope-defined security work, see the [Responsible Disclosure](#responsible-disclosure) note below.
+Founder-to-founder, recruiter, or fellow researcher: the fastest path in is email. For scope-defined security work, see the [Responsible Disclosure](#responsible-disclosure) note below.
 
 ---
 
 ## Responsible Disclosure
 
-If you find a security issue in any project here, report it privately first: [sagarbiswas@multihat.dev](mailto:sagarbiswas@multihat.dev) or via [Facebook](https://www.facebook.com/0sagarbiswas0), with enough detail to reproduce it. Please hold public exploit details until we've agreed on a remediation timeline — standard coordinated disclosure, nothing more.
+If you find a security issue in any project here, report it privately first: [sagarbiswas@multihat.dev](mailto:sagarbiswas@multihat.dev) or via [Facebook](https://www.facebook.com/0sagarbiswas0), with enough detail to reproduce it. Please hold public exploit details until we've agreed on a remediation timeline (standard coordinated disclosure, nothing more).
 
 ---
 
