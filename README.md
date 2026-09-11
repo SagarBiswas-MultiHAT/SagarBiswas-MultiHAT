@@ -1,476 +1,161 @@
-<h1 align="center"> Sagar Biswas (SagarBiswas-MultiHAT)</h1>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions"><img src="https://img.shields.io/github/actions/workflow/status/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/get-started.yml?branch=main" alt="Actions status" /></a>
-  &nbsp;
-  <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions/workflows/get-started.yml"><img src="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions/workflows/get-started.yml/badge.svg" alt="get-started workflow" /></a>
-  &nbsp;
-  <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT?style=flat" alt="License" /></a>
-  &nbsp;
-  <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/main" alt="Last commit" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Top%20language-Markdown-083fa1?logo=markdown&logoColor=white" alt="Top language" />
-
-</p>
-
-<p align="center">
-  <a href="https://sagarbiswas-multihat.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Sagar%20Biswas-blue?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<p align="center"><b>Cybersecurity Enthusiast (Web App Security) • Web Developer • CSE Student (AIUB)</b></p>
-
-Sagar Biswas is a Computer Science and Engineering (CSE) student at American International University–Bangladesh (AIUB), a cybersecurity enthusiast, ethical hacker (web application security), and web developer.
-
-This is the official GitHub profile of Sagar Biswas, known online as SagarBiswas-MultiHAT, where he publishes open-source projects, cybersecurity tools, learning notebooks, and web development work.
-
-## Identity
-
-- Name: Sagar Biswas
-- Username: SagarBiswas-MultiHAT
-- Field: Web Developer, Cybersecurity (Ethical Hacking, Web App Security)
-- Role: BSc in Computer Science And Engineering (CSE) Student at American International University Bangladesh
-- Country: Bangladesh
-- e-Portfolio: https://sagarbiswas.multihat.dev/
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagarbiswas-multihat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/sagarbiswas-multihat?label=Followers&style=flat" alt="GitHub followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/sagarbiswas-multihat?label=Stars&style=flat" alt="GitHub stars" />
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-Community-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook Group" /></a>
-  &nbsp;
-  <a href="mailto:sagarbiswas@multihat.dev"><img src="https://img.shields.io/badge/Email-sagarbiswas%40multihat.dev-informational?style=flat" alt="Email" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sagarbiswas-multihat/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" /></a>
-  &nbsp;
-
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/@Sagar-MultiHAT" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-MultiHAT-FF0000?logo=youtube&logoColor=white&style=flat" alt="YouTube" /></a>
-</p>
-
-<br>
-
-![I am a Coder | Web Developer | Web Penetration Tester](resources/coverPhoto.jpg)
-
----
-
-☯️ Live From Private Repos:
-
-1. sydneywheelsandtyres - A premium, high-performance static marketing website for Sydney Wheels & Tyres. Built with Next.js, TypeScript, and Tailwind v4, it features immersive UI animations, 3D tilt cards, automated sitemaps, and rich local business schema. Designed to maximize SEO discoverability, showcase auto services, and drive customer bookings in Campbellfield.
-
-   Link: https://sydneywheelsandtyres.com.au/
-
-2. sagarbiswas-multihat.github.io - A privacy-first, static developer & cybersecurity portfolio for Sagar Biswas (MultiHAT). Fast, SEO-friendly GitHub Pages site showcasing projects, tutorials, and blog posts; includes RSS, sitemap, responsive design, and easy rebuild scripts—ideal for sharing work, demos, and technical write-ups.
-
-   Link: https://sagarbiswas.multihat.dev/
-
-3. multihat.dev - This is my personal cyber-themed command deck showcasing AI systems, cybersecurity tools, and high-performance web apps. Built with Next.js 15 and Tailwind, it features a privacy-first architecture and robust SEO to highlight live projects like PromptVault and PhishGuard.
-
-   Link: https://multihat.dev/
-
-4. MultiHAT Academy is a full-stack e-learning platform that turns technical notebooks into premium, verifiable micro-credentials. Built with Next.js 15 and NestJS 11, it features dynamic watermarked e-books, interactive quizzes, public certificates, a built-in Wallet, referral rewards, and native aamarPay integration for seamless local payments.
-
-   Link: https://academy.multihat.dev
-
----
-
-📢 Live From Public Repos:
-
-1. PromptVault - Your private, offline-first library for AI prompts. Securely save, organize, and perfect your instructions using a built-in AI Librarian. Features PIN-protection, categories, fill-in-the-blank variables, and optional cloud sync. Own your workflow without subscriptions. 🚀🔒
-
-   Link: https://promptvault.multihat.dev/
-
-2. PhishGuard is a fast-paced web game that trains your instincts against email phishing. Powered by a Dual-AI Consensus Engine (OpenRouter & Groq), it generates and verifies highly realistic, unique phishing scenarios in real-time. Can you spot the scam before the 10-second timer runs out?
-
-   Link: https://phishguard.multihat.dev/
-
-3. WiFi-QR-Generator - Generate Wi‑Fi QR codes instantly in your browser, no backend required. Supports WPA/WPA2, WEP, and open networks; hidden SSIDs; adjustable size and error correction; export PNG or SVG; copy raw Wi‑Fi payload; offline-friendly (local QR lib). Privacy-first: nothing leaves your device.
-
-   Link: https://wifi.multihat.dev/qr
-
-4. Password-Strength-Checker - A polished, accessible client-side password strength checker that estimates entropy, detects weak patterns, and provides actionable suggestions. Includes a built-in password generator, works fully offline with no network calls, and uses ARIA live updates for accessibility. Ideal for demos, portfolios, or frontend components.
-   
-   Link: http://psc.multihat.dev/
-
-5. SharpLink-URL-Allies - A clean Flask-based URL shortener that converts long links into short, shareable URLs with optional custom aliases, expiration support, and TinyURL mirroring. Uses SQLite for persistence, includes copy helpers, rate limiting, and a simple REST API. Ideal for learning backend fundamentals and deployment.
-
-   Link: https://sharplink.onrender.com/
-
----
-
-👋 About Me
-
-Hi! I’m Sagar Biswas, a passionate coder, web developer, and focused on web application security assessment and vulnerability analysis from Bangladesh. With a strong foundation in computer science, I’m on a mission to master the art of cybersecurity and make the web a safer place.
-
-🌟 What I’m About
-
-I’m deeply driven by curiosity and the thrill of solving problems. Whether it’s building secure web applications or uncovering vulnerabilities, I love learning, experimenting, and improving my skills every day.
-
-💻 What I’m Working On
-
-Currently, I’m focused on:
-
-    Enhancing my penetration testing skills with practical, hands-on experience.
-    Developing secure and efficient web applications.
-    Strengthening my knowledge of programming languages like Python, C++, Bash scripting, and more.
-
-📫 Let’s Connect!
-
-I’m always eager to connect with fellow developers, cybersecurity enthusiasts, and learners. Check out my repositories to see what I’m working on, or feel free to reach out. Let’s collaborate, share ideas, and grow together! 🚀
-
-Skills: Python | C++ | C | C# | Java | ArduinoScripts | BashScripts | html | css | JSON | javascript | AJAX | PHP | React | NestJS | Web Security.
-
-- 🔭 I’m currently working on Exploring advanced penetration testing techniques and applying them to real-world scenarios.
-- 🌱 I’m currently learning CSE at American International University Bangladesh (AIUB).
-- 👯 I’m looking to collaborate on Open-source projects focused on cybersecurity and web security.
-- 🤔 I’m looking for help with Improving my penetration testing skills and learning advanced techniques.
-- 💬 Ask me about Programming Languages, Network Security, Linux Tools.
-- 📫 How to reach me: sagarbiswas@multihat.dev || 01727361077
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My biggest weakness: when I am engaged with any work, I can't keep concerned with other work without finishing that.
-
----
-
-<h2 align="center">Featured</h2>
-<p align="center">
-  <a href="https://youtu.be/oUp4SWSrYYk?si=7F3ZTdetR5qVf-4Y" target="_blank">
-    <img
-      src="https://img.youtube.com/vi/oUp4SWSrYYk/hqdefault.jpg"
-      alt="Play the featured YouTube video"
-      width="680"
-      loading="lazy"
-    />
-  </a>
-</p>
-
----
-
-<h3 align="left">Connect with me</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sagarbiswas-multihat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagarbiswas-multihat" height="30" width="40" /></a>&nbsp;<a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/0sagarbiswas0" height="30" width="40" /></a>&nbsp;<a href="https://www.instagram.com/0_sagarbiswas_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/0_sagar_biswas_0/" height="30" width="40" /></a>&nbsp;<a href="https://www.youtube.com/@Sagar-MultiHAT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sagarscodecraft-mf7hq" height="30" width="40" /></a>&nbsp;<a href="https://x.com/SagarBiswasMH" target="blank"><img align="center" src="https://img.shields.io/badge/-000000?logo=x&logoColor=white" alt="https://x.com/SagarBiswasMH" height="30" width="40" /></a>&nbsp;<a href="https://codeforces.com" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?logo=codeforces&logoColor=white" alt="Codeforces" height="25" width="110" /></a>
-</p>
-
-<h3 align="left">Labs & Learning</h3>
-
-<p align="left">
-  <a href="https://portswigger.net/web-security" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-8B5CF6?style=flat" alt="PortSwigger Web Security Academy" /></a>
-  &nbsp;
-  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OWASP-Top%2010-000000?style=flat" alt="OWASP Top 10" /></a>
-  &nbsp;
-  <a href="https://tryhackme.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TryHackMe-Labs-111827?style=flat" alt="TryHackMe" /></a>
-  &nbsp;
-  <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hack%20The%20Box-Labs-0EA5E9?style=flat" alt="Hack The Box" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>&nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>&nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>&nbsp;<a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>&nbsp;<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>&nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>&nbsp;<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>&nbsp;<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>&nbsp;<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>&nbsp;<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>&nbsp;<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>&nbsp;<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-</p>
-
----
-
 <div align="center">
 
-<h2 align="left">GitHub Analytics</h2>
+<img src="resources/banner.svg" alt="Sagar Biswas — security engineer, full-stack developer, and founder of MultiHAT, based in Dhaka, Bangladesh" width="100%" />
 
-| Status                                                                                                                                                      | Daily Streak                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-|                                                                                                                                                             |
-| ![](https://stats-sagarbiswas-multihat.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github) | ![](https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&theme=radical&hide_border=true) |
+<br/>
 
-| Weekly Streak                                                                                              | Most Used Languages                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                            |
-| ![](https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&mode=weekly&theme=radical&hide_border=true) | ![](https://stats-sagarbiswas-multihat.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&theme=tokyonight&hide_border=true) |
+<a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions/workflows/get-started.yml"><img src="https://img.shields.io/github/actions/workflow/status/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/get-started.yml?branch=main&style=flat-square&label=BUILD&labelColor=050506&color=49d3ff" alt="Build status" /></a>
+<a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT?style=flat-square&label=LICENSE&labelColor=050506&color=49d3ff" alt="License" /></a>
+<a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/main?style=flat-square&label=LAST%20COMMIT&labelColor=050506&color=49d3ff" alt="Last commit" /></a>
+<img src="https://img.shields.io/badge/TOP%20LANGUAGE-Markdown-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Top language: Markdown" />
 
-| GitHub Activity                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                                                                                |
-| ![](https://graph-sagarbiswas-multihat.vercel.app/graph?username=SagarBiswas-MultiHAT&theme=github-compact&hide_border=true) |
+<a href="https://sagarbiswas-multihat.github.io/"><img src="https://img.shields.io/badge/E--PORTFOLIO-Live%20Dossier-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="e-Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=sagarbiswas-multihat&label=PROFILE+VIEWS&color=49d3ff&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/sagarbiswas-multihat?label=FOLLOWERS&style=flat-square&labelColor=050506&color=49d3ff" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/sagarbiswas-multihat?label=STARS&style=flat-square&labelColor=050506&color=49d3ff&affiliations=OWNER" alt="GitHub stars" />
 
 </div>
 
-<br>
+<br/>
+
+## Field File
+
+I work both sides of the same problem: breaking web applications to understand how they fail, then building and hardening them so they don't. That split is the whole job — **web application security and ethical hacking** on one side, **full-stack engineering** on the other — and I run both under **[MultiHAT](https://multihat.dev/)**, the software and security studio I founded in Dhaka, Bangladesh.
+
+| | |
+|---|---|
+| **Callsign** | Sagar Biswas · `SagarBiswas-MultiHAT` |
+| **Role** | Founder, MultiHAT · Web Application Security Engineer · Full-Stack Developer · AI Integrator |
+| **Studying** | BSc in Computer Science & Engineering, American International University–Bangladesh (AIUB) |
+| **Stack** | Python, C/C++/C#, Bash · Next.js, React, Node.js, NestJS · PHP · Docker |
+| **Focus** | Web app penetration testing, OSINT, and production-grade engineering with Next.js/NestJS |
+| **Status** | Open to security-tooling collaborations and technical roles |
+
+The long-form version of this — verified evidence, no inflated metrics — lives in the [operator dossier](https://sagarbiswas-multihat.github.io/about/).
 
 ---
 
-## Security / Responsible Disclosure
+## Three Operating Vectors
 
-If you discover a security issue in any of my projects, please contact me directly at <a href="https://www.facebook.com/0sagarbiswas0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sagar Biswas-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook Group" /></a>
-&nbsp; OR [**sagarbiswas@multihat.dev**](mailto:sagarbiswas@multihat.dev) with details. Do not post exploit details publicly until we discuss and agree on responsible disclosure and remediation.
+Same framework I use everywhere else: security work as a continuous loop, not a list of skill bars.
 
-## Footer / Quick Links
+| Vector | In practice | Dossier |
+|---|---|---|
+| **Assess** | Passive OSINT and web vulnerability mapping, scoped strictly to authorized environments and educational research | [→ Inspect](https://sagarbiswas-multihat.github.io/capabilities/#assess) |
+| **Harden** | Converting findings into resilient infrastructure — CSP, MFA, input validation, zero-trust defaults | [→ Inspect](https://sagarbiswas-multihat.github.io/capabilities/#harden) |
+| **Govern** | Responsible disclosure, severity triage, and remediation guidance communicated in plain language | [→ Inspect](https://sagarbiswas-multihat.github.io/capabilities/#govern) |
 
-- Resume: [resume PDF](https://drive.google.com/file/d/1Nmw1AilvcUpdACU9OHfCFCIWXuxciAJK/view?usp=sharing)
+---
 
-- Certifications: [Google Drive](https://drive.google.com/drive/folders/1t2Lb7s9-zADwRKmO2ctyqVGQkYJw3NGg?usp=sharing)
+## Live Systems
 
-<details><summary>- Certifications: </summary>
+Production work under the MultiHAT name.
 
-<br>
+| System | What it is | Link |
+|---|---|---|
+| **MultiHAT** | Software, AI & security engineering studio — the agency behind everything here | [multihat.dev](https://multihat.dev/) |
+| **Operator Dossier** | Recruiter-first security & software portfolio: evidence across Assess, Harden, Govern | [sagarbiswas-multihat.github.io](https://sagarbiswas-multihat.github.io/) |
+| **MultiHAT Academy** | Full-stack e-learning platform turning technical notebooks into verifiable micro-credentials (Next.js 15 + NestJS 11) | [academy.multihat.dev](https://academy.multihat.dev) |
+| **Sydney Wheels & Tyres** | Client project — premium marketing site with local business schema, built for SEO discoverability | [sydneywheelsandtyres.com.au](https://sydneywheelsandtyres.com.au/) |
 
-1. Certified Phishing Prevention Specialist (CPPS)
+---
 
-<br>
+## Public Ops Ledger
+
+Open-source tools, all client-side or self-hosted where it matters.
+
+| Project | Description | Link |
+|---|---|---|
+| **PromptVault** | Offline-first, PIN-protected library for AI prompts with a built-in AI librarian, categories, and fill-in-the-blank variables | [promptvault.multihat.dev](https://promptvault.multihat.dev/) |
+| **PhishGuard** | A 10-second phishing-detection game powered by a dual-AI consensus engine (OpenRouter + Groq) generating unique scenarios in real time | [phishguard.multihat.dev](https://phishguard.multihat.dev/) |
+| **WiFi-QR-Generator** | Browser-only Wi-Fi QR codes — WPA/WPA2/WEP, hidden SSIDs, PNG/SVG export, nothing leaves the device | [wifi.multihat.dev/qr](https://wifi.multihat.dev/qr) |
+| **Password-Strength-Checker** | Accessible, fully offline entropy estimator with weak-pattern detection and a built-in generator | [psc.multihat.dev](http://psc.multihat.dev/) |
+| **SharpLink-URL-Allies** | Flask URL shortener with custom aliases, expiration, SQLite persistence, and a REST API | [sharplink.onrender.com](https://sharplink.onrender.com/) |
+
+More on GitHub: [github.com/SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT?tab=repositories)
+
+---
+
+## Field Manuals & Research
+
+Longer-form technical writing and study vaults — recent entries cover post-quantum cryptography and RSA's exposure to Shor's algorithm, mapping real attacks to OSI layers, and a complete Google Dorks handbook for OSINT.
+
+[→ Browse all field manuals](https://sagarbiswas-multihat.github.io/notebooks/) · [→ Read the research transmissions](https://sagarbiswas-multihat.github.io/blogs/)
+
+---
+
+## Clearance
+
+<details>
+<summary><strong>Verified credentials</strong></summary>
+<br/>
+
+**Certified Phishing Prevention Specialist (CPPS)**
+Track: Social Engineering Defense
 
 ![Certified Phishing Prevention Specialist (CPPS)](<resources/Certifications/Certified Phishing Prevention Specialist (CPPS)_page-0001.jpg>)
 
-<br>
-
-2. Certified Red Certificate
-
-<br>
+**Certified Red Operations Certificate**
+Track: Adversarial Operations
 
 ![Certified Red Certificate](resources/Certifications/certified_red_certificate_page-0001.jpg)
 
-</details>
+Full provenance and verification links: [→ Credential Vault](https://sagarbiswas-multihat.github.io/certifications/)
 
-<!-- - Sponsor / Support: add GitHub Sponsors or PayPal link if want to accept support -->
+</details>
 
 ---
 
+## Now
+
+- **Active:** sharpening offensive/defensive web security instincts through PortSwigger Academy, TryHackMe, and Hack The Box
+- **Building:** production systems in Next.js and NestJS under the MultiHAT banner
+- **Open to:** open-source collaboration on cybersecurity and web-security tooling
+- **Ask me about:** web app security, OSINT, Linux tooling, or the Next.js/NestJS stack
+
+---
+
+## GitHub Analytics
+
 <div align="center">
 
-<img alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img src="https://stats-sagarbiswas-multihat.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4&icon_color=49d3ff&border_color=15181f&rank_icon=github" alt="Sagar Biswas's GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&hide_border=true&background=050506&ring=49d3ff&fire=49d3ff&currStreakLabel=49d3ff&sideLabels=aab4c4&currStreakNum=eef1f5&sideNums=eef1f5&dates=5c6577" alt="GitHub streak stats" height="165" />
+
+<img src="https://stats-sagarbiswas-multihat.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4" alt="Most used languages" height="165" />
+
+<img src="https://graph-sagarbiswas-multihat.vercel.app/graph?username=SagarBiswas-MultiHAT&hide_border=true&bg_color=050506&color=aab4c4&line=49d3ff&point=eef1f5" alt="Contribution activity graph" width="90%" />
 
 </div>
 
 ---
 
-<details><summary><h2>📂 My More Work</h2></summary>
-
-<div align="center"><h2>📔NoteBooks AND Facebook Community Group</h2></div>
-
-<p align="center">
-  <a href="https://github.com/SagarBiswas-MultiHAT/Google_Dorks_Notebook">
-    <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Google_Dorks_Notebook&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Google_Dorks_Notebook"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/noteBooks-maintainingBYme">
-    <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=noteBooks-maintainingBYme&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Google_Dorks_Notebook"></a>
-
-<br>
-
-    NOTE: To find more notebooks, projects, tips and tricks like this, join my Facebook community group and check the featured section for notebooks and explore the Posts to discover real-world projects.
+## Direct Channel
 
 <div align="center">
-  <a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety">
-    AIUB CyberSecurity & Programming Society
-  </a>
+
+<a href="mailto:sagarbiswas@multihat.dev"><img src="https://img.shields.io/badge/EMAIL-sagarbiswas%40multihat.dev-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/sagarbiswas-multihat/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-050506?style=flat-square&labelColor=050506&color=49d3ff&logo=linkedin&logoColor=49d3ff" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety"><img src="https://img.shields.io/badge/COMMUNITY-AIUB%20CS%20%26%20Programming%20Society-050506?style=flat-square&labelColor=050506&color=49d3ff&logo=facebook&logoColor=49d3ff" alt="Facebook Community" /></a>
+<a href="https://www.youtube.com/@Sagar-MultiHAT"><img src="https://img.shields.io/badge/YOUTUBE-MultiHAT-050506?style=flat-square&labelColor=050506&color=49d3ff&logo=youtube&logoColor=49d3ff" alt="YouTube" /></a>
+<a href="https://x.com/SagarBiswasMH"><img src="https://img.shields.io/badge/X-@SagarBiswasMH-050506?style=flat-square&labelColor=050506&color=49d3ff&logo=x&logoColor=49d3ff" alt="X" /></a>
+
 </div>
-</p>
 
-<div align="center"><h2>Useful Repositories</h2></div>
+Founder-to-founder, recruiter, or fellow researcher — the fastest path in is email. For scope-defined security work, see the [Responsible Disclosure](#responsible-disclosure) note below.
 
-<p align="center">
+---
 
-  <a href="https://github.com/SagarBiswas-MultiHAT/Web_Penetration_Testing_Roadmap">
-    <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Web_Penetration_Testing_Roadmap&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Web_Penetration_Testing_Roadmap"></a>
+## Responsible Disclosure
 
-  <a href="https://github.com/SagarBiswas-MultiHAT/infosec-vocabulary">
-    <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=infosec-vocabulary&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="infosec-vocabulary"></a>
-  
-  <a href="https://github.com/SagarBiswas-MultiHAT/Cybersecurity-Library">
-    <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Cybersecurity-Library&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Cybersecurity-Library"></a>
+If you find a security issue in any project here, report it privately first: [sagarbiswas@multihat.dev](mailto:sagarbiswas@multihat.dev) or via [Facebook](https://www.facebook.com/0sagarbiswas0), with enough detail to reproduce it. Please hold public exploit details until we've agreed on a remediation timeline — standard coordinated disclosure, nothing more.
 
-  <a href="https://github.com/SagarBiswas-MultiHAT/WSL-Installation_Guide/">
-    <img width="328" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=WSL-Installation_Guide&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="WSL-Installation_Guide"></a>
-</p>
+---
 
-<div align="center"><h2>🤖AI Based Projects</h2></div>
-<p align="center">
+<div align="center">
 
-  <a href="https://github.com/SagarBiswas-MultiHAT/Web_Vulnerability_Scanner-AI">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Web_Vulnerability_Scanner-AI&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Web_Vulnerability_Scanner-AI"></a>
+[Agency](https://multihat.dev/) · [Operator Dossier](https://sagarbiswas-multihat.github.io/) · [Field Manuals](https://sagarbiswas-multihat.github.io/notebooks/) · [Résumé](https://drive.google.com/file/d/1Nmw1AilvcUpdACU9OHfCFCIWXuxciAJK/view?usp=sharing) · [AIUB CS & Programming Society](https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety)
 
-  <a href="https://github.com/SagarBiswas-MultiHAT/Speech2Speech-AIAssistant">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Speech2Speech-AIAssistant&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Speech2Speech-AIAssistant"></a>
+<sub>© 2026 Sagar Biswas · MultiHAT Field Node // ᴄᴜʀɪᴏꜱɪᴛʏ ɪꜱ ᴍʏ ᴘᴀʏʟᴏᴀᴅ</sub>
 
-  <a href="https://github.com/SagarBiswas-MultiHAT/PythonicHackathon-CLI">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=PythonicHackathon-CLI&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="PythonicHackathon-CLI"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Ai-Resume-Analyzer">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Ai-Resume-Analyzer&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Ai-Resume-Analyzer"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Ai-Phishy-Playground">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Ai-Phishy-Playground&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Ai-Phishy-Playground"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Chat-Automation-Bot_Ai-Assistant">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Chat-Automation-Bot_Ai-Assistant&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Chat-Automation-Bot_Ai-Assistant"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Cyber-Command_AI-Assistant.exe">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Cyber-Command_AI-Assistant.exe&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Cyber-Command_AI-Assistant.exe"></a>
-</p>
-
-<div align="center"><h2>🤖 Tools/Automation</h2></div>
-
-<p align="center">
-  <a href="https://github.com/SagarBiswas-MultiHAT/MacChanger-V1-MAX">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=MacChanger-V1-MAX&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="MacChanger-V1-MAX"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Phoneint-OSINT-Toolkit">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Phoneint-OSINT-Toolkit&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Phoneint-OSINT-Toolkit"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/WebSource-Harvester">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=WebSource-Harvester&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="WebSource-Harvester"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/HashAttackDemos">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=HashAttackDemos&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="HashAttackDemos"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/A_Pythonic-Keylogger">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=A_Pythonic-Keylogger&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="A_Pythonic-Keylogger"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/BruteforceLab1">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=BruteforceLab1&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="BruteforceLab1"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/BruteforceLab2">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=BruteforceLab2&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="BruteforceLab2"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/EmailBomber">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=EmailBomber&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="EmailBomber"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/NmapScanningTool-V1-MAX">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=NmapScanningTool-V1-MAX&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="NmapScanningTool-V1-MAX"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/WinTempCleaner">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=WinTempCleaner&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="WinTempCleaner"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/WiFi-Dictionary-Attack">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=WiFi-Dictionary-Attack&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="WiFi-Dictionary-Attack"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/SeleniumFirefoxGoogleSearchAutomation">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=SeleniumFirefoxGoogleSearchAutomation&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="SeleniumFirefoxGoogleSearchAutomation"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/TextBombing-Toolkit">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=TextBombing-Toolkit&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="TextBombing-Toolkit"></a>
-
-</p>
-
-<div align="center"><h2>🛜 Networking</h2></div>
-
-<p align="center">
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/TCP-Playground">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=TCP-Playground&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="TCP-Playground"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Saved-WiFi-Restore">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Saved-WiFi-Restore&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Saved-WiFi-Restore"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/WiFi-Dictionary-Attack">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=WiFi-Dictionary-Attack&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="WiFi-Dictionary-Attack"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/WiFi-QR-Generator">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=WiFi-QR-Generator&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="WiFi-QR-Generator"></a>
-    
-  <a href="https://github.com/SagarBiswas-MultiHAT/domain2ip">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=domain2ip&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="domain2ip"></a>
-</p>
-
-<div align="center"><h2>🧑‍💻 Development</h2></div>
-
-<p align="center">
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/SharpLink-URL-Allies/">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=SharpLink-URL-Allies&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="SharpLink-URL-Allies"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Photo-PDF-Bidirectional-Converter/">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Photo-PDF-Bidirectional-Converter&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Photo-PDF-Bidirectional-Converter"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/AirportDesk-Assistant/">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=AirportDesk-Assistant&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="AirportDesk-Assistant"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Library-Management-System">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Library-Management-System&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Library-Management-System"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Multi-FA-Auth/">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Multi-FA-Auth&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Multi-FA-Auth"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/PyTextEditor/">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=PyTextEditor&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="PyTextEditor"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/SafeTodoManager">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=SafeTodoManager&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="SafeTodoManager"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/SecurePay_E-Wallet-V1">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=SecurePay_E-Wallet-V1&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="SecurePay_E-Wallet-V1"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Student-Management-MVC-Learning-Project">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Student-Management-MVC-Learning-Project&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Student-Management-MVC-Learning-Project"></a>
-  
-  <a href="https://github.com/SagarBiswas-MultiHAT/TicTacToe-Game">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=TicTacToe-Game&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="TicTacToe-Game"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/SecureBank-CLI">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=SecureBank-CLI&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="SecureBank-CLI"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/SecureBankingSystem">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=SecureBankingSystem&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="SecureBankingSystem"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/CustomerSlip-CLI">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=CustomerSlip-CLI&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="CustomerSlip-CLI"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/PyCalculator">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=PyCalculator&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="PyCalculator"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Contact-Management-System">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Contact-Management-System&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Contact-Management-System"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/SnakeWaterGun-Game">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=SnakeWaterGun-Game&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="SnakeWaterGun-Game"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/SnakeWaterGun-Game">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=PyAlarmClock&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="PyAlarmClock"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/AirportDesk-Assistant">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=AirportDesk-Assistant&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="AirportDesk-Assistant"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Fake_FACEBOOK_Login_Page">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Fake_FACEBOOK_Login_Page&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Fake_FACEBOOK_Login_Page"></a>
-
-</p>
-
-<div align="center"><h2>🤖 Small Projects</h2></div>
-
-<p align="center">
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Password-Strength-Checker">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Password-Strength-Checker&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Password-Strength-Checker"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/XSS-WebGuard">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=XSS-WebGuard&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="XSS-WebGuard"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Port_Scanner-Python">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Port_Scanner-Python&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Port_Scanner-Python"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/RandomPasswordGeneratorCpp">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=RandomPasswordGeneratorCpp&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="RandomPasswordGeneratorCpp"></a>
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/virusNewFolder">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=virusNewFolder&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="virusNewFolder"></a>
-
-</p>
-
-<div align="center"><h2>Collected Projects</h2></div>
-
-<p align="center">
-
-  <a href="https://github.com/SagarBiswas-MultiHAT/Impress-Crush-CPP-ASCII">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SagarBiswas-MultiHAT&repo=Impress-Crush-CPP-ASCII&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Impress-Crush-CPP-ASCII"></a>
-</p>
-
-</details>
+</div>
