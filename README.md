@@ -26,6 +26,8 @@ I work both sides of the same problem: breaking web applications to understand h
 
 <img src="resources/coverPhoto.jpg" alt="Sagar Biswas: Operator Field Photo" width="100%" />
 
+---
+
 <br/>
 
 | | |
