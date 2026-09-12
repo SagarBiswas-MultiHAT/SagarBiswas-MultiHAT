@@ -6,15 +6,14 @@
 
 <br/>
 
-<a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions/workflows/get-started.yml"><img src="https://img.shields.io/github/actions/workflow/status/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/get-started.yml?branch=main&style=flat-square&label=BUILD&labelColor=050506&color=49d3ff" alt="Build status" /></a>
-<a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT?style=flat-square&label=LICENSE&labelColor=050506&color=49d3ff" alt="License" /></a>
-<a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/main?style=flat-square&label=LAST%20COMMIT&labelColor=050506&color=49d3ff" alt="Last commit" /></a>
-<img src="https://img.shields.io/badge/TOP%20LANGUAGE-Markdown-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Top language: Markdown" />
+<a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions/workflows/get-started.yml"><img src="https://img.shields.io/github/actions/workflow/status/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/get-started.yml?branch=main&style=flat-square&label=BUILD&labelColor=050506&color=49d3ff" alt="Build status" /></a> &nbsp;
+<a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT?style=flat-square&label=LICENSE&labelColor=050506&color=49d3ff" alt="License" /></a> &nbsp;
+<a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/main?style=flat-square&label=LAST%20COMMIT&labelColor=050506&color=49d3ff" alt="Last commit" /></a> &nbsp;
 
-<a href="https://sagarbiswas-multihat.github.io/"><img src="https://img.shields.io/badge/E--PORTFOLIO-Live%20Dossier-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="e-Portfolio" /></a>
-<img src="https://komarev.com/ghpvc/?username=sagarbiswas-multihat&label=PROFILE+VIEWS&color=49d3ff&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/sagarbiswas-multihat?label=FOLLOWERS&style=flat-square&labelColor=050506&color=49d3ff" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/sagarbiswas-multihat?label=STARS&style=flat-square&labelColor=050506&color=49d3ff&affiliations=OWNER" alt="GitHub stars" />
+<a href="https://sagarbiswas-multihat.github.io/"><img src="https://img.shields.io/badge/E--PORTFOLIO-Live%20Dossier-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="e-Portfolio" /></a> &nbsp;
+<img src="https://komarev.com/ghpvc/?username=sagarbiswas-multihat&label=PROFILE+VIEWS&color=49d3ff&style=flat-square" alt="Profile views" /> &nbsp;
+<img src="https://img.shields.io/github/followers/sagarbiswas-multihat?label=FOLLOWERS&style=flat-square&labelColor=050506&color=49d3ff" alt="GitHub followers" /> &nbsp;
+<img src="https://img.shields.io/github/stars/sagarbiswas-multihat?label=STARS&style=flat-square&labelColor=050506&color=49d3ff&affiliations=OWNER" alt="GitHub stars" /> &nbsp;
 
 </div>
 
@@ -42,18 +41,6 @@ I work both sides of the same problem: breaking web applications to understand h
 The long-form version of this (verified evidence, no inflated metrics) lives in the [operator dossier](https://sagarbiswas-multihat.github.io/about/).
 
 </div>
-
----
-
-## Three Operating Vectors
-
-Same framework I use everywhere else: security work as a continuous loop, not a list of skill bars.
-
-| Vector | In practice | Dossier |
-|---|---|---|
-| **Assess** | Passive OSINT and web vulnerability mapping, scoped strictly to authorized environments and educational research | [→ Inspect](https://sagarbiswas-multihat.github.io/capabilities/#assess) |
-| **Harden** | Converting findings into resilient infrastructure: CSP, MFA, input validation, zero-trust defaults | [→ Inspect](https://sagarbiswas-multihat.github.io/capabilities/#harden) |
-| **Govern** | Responsible disclosure, severity triage, and remediation guidance communicated in plain language | [→ Inspect](https://sagarbiswas-multihat.github.io/capabilities/#govern) |
 
 ---
 
@@ -125,25 +112,28 @@ Full provenance and verification links: [→ Credential Vault](https://sagarbisw
 
 ---
 
-## GitHub Analytics
-
 <div align="center">
 
-<img src="https://stats-sagarbiswas-multihat.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4&icon_color=49d3ff&border_color=15181f&rank_icon=github" alt="Sagar Biswas's GitHub stats" height="165" />
+<h2 align="left">GitHub Analytics</h2>
 
-<br/>
+| Status                                                                                                                                                      | Most Used Languages                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+|                                                                                                                                                             |
+| <img src="https://stats-sagarbiswas-multihat.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4&icon_color=49d3ff&border_color=15181f&rank_icon=github" alt="Sagar Biswas's GitHub stats" height="165" /> | <img src="https://stats-sagarbiswas-multihat.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4" alt="Most used languages" height="165" /> |
 
-<img src="https://stats-sagarbiswas-multihat.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4" alt="Most used languages" height="165" />
+| Weekly Streak                                                                                              |                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                            |
+| <img src="https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&hide_border=true&background=050506&border=050506&stroke=49d3ff&ring=49d3ff&fire=eef1f5&currStreakNum=eef1f5&currStreakLabel=49d3ff&sideNums=aab4c4&sideLabels=aab4c4&dates=aab4c4" alt="GitHub streak stats" width="90%" /> |
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&hide_border=true&background=050506&ring=49d3ff&fire=49d3ff&currStreakLabel=49d3ff&sideLabels=aab4c4&currStreakNum=eef1f5&sideNums=eef1f5&dates=5c6577" alt="GitHub streak stats" height="165" />
-
-<br/>
-
-<img src="https://graph-sagarbiswas-multihat.vercel.app/graph?username=SagarBiswas-MultiHAT&hide_border=true&bg_color=050506&color=aab4c4&line=49d3ff&point=eef1f5" alt="Contribution activity graph" width="90%" />
+| GitHub Activity                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+|                                                                                                                                |
+| <img src="https://graph-sagarbiswas-multihat.vercel.app/graph?username=SagarBiswas-MultiHAT&hide_border=true&bg_color=050506&color=aab4c4&line=49d3ff&point=eef1f5" alt="Contribution activity graph" width="90%" /> |
 
 </div>
+
+<br>
 
 ---
 
@@ -151,11 +141,12 @@ Full provenance and verification links: [→ Credential Vault](https://sagarbisw
 
 <div align="center">
 
-<a href="mailto:sagarbiswas@multihat.dev"><img src="https://img.shields.io/badge/EMAIL-sagarbiswas%40multihat.dev-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/sagarbiswas-multihat/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-050506?style=flat-square&labelColor=050506&color=49d3ff&logo=linkedin&logoColor=49d3ff" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety"><img src="https://img.shields.io/badge/COMMUNITY-AIUB%20CS%20%26%20Programming%20Society-050506?style=flat-square&labelColor=050506&color=49d3ff&logo=facebook&logoColor=49d3ff" alt="Facebook Community" /></a>
-<a href="https://www.youtube.com/@Sagar-MultiHAT"><img src="https://img.shields.io/badge/YOUTUBE-MultiHAT-050506?style=flat-square&labelColor=050506&color=49d3ff&logo=youtube&logoColor=49d3ff" alt="YouTube" /></a>
+<a href="https://www.linkedin.com/in/sagarbiswas-multihat/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-050506?style=flat-square&labelColor=050506&color=49d3ff&logo=linkedin&logoColor=49d3ff" alt="LinkedIn" /></a> &nbsp;
+<a href="https://www.youtube.com/@Sagar-MultiHAT"><img src="https://img.shields.io/badge/YOUTUBE-MultiHAT-050506?style=flat-square&labelColor=050506&color=49d3ff&logo=youtube&logoColor=49d3ff" alt="YouTube" /></a> &nbsp;
 <a href="https://x.com/SagarBiswasMH"><img src="https://img.shields.io/badge/X-@SagarBiswasMH-050506?style=flat-square&labelColor=050506&color=49d3ff&logo=x&logoColor=49d3ff" alt="X" /></a>
+
+<a href="https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety"><img src="https://img.shields.io/badge/COMMUNITY-AIUB%20CS%20%26%20Programming%20Society-050506?style=flat-square&labelColor=050506&color=49d3ff&logo=facebook&logoColor=49d3ff" alt="Facebook Community" /></a> &nbsp;
+<a href="mailto:sagarbiswas@multihat.dev"><img src="https://img.shields.io/badge/EMAIL-sagarbiswas%40multihat.dev-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Email" /></a>
 
 </div>
 
@@ -171,7 +162,7 @@ If you find a security issue in any project here, report it privately first: [sa
 
 <div align="center">
 
-[Agency](https://multihat.dev/) · [Operator Dossier](https://sagarbiswas-multihat.github.io/) · [Field Manuals](https://sagarbiswas-multihat.github.io/notebooks/) · [Résumé](https://drive.google.com/file/d/1Nmw1AilvcUpdACU9OHfCFCIWXuxciAJK/view?usp=sharing) · [AIUB CS & Programming Society](https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety)
+[Agency](https://multihat.dev/) · [Operator Dossier](https://sagarbiswas-multihat.github.io/) · [Field Manuals](https://sagarbiswas-multihat.github.io/notebooks/) · [Résumé](https://drive.google.com/file/d/1Nmw1AilvcUpdACU9OHfCFCIWXuxciAJK/view?usp=sharing) · [AIUB CyberSecurity & Programming Society](https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety)
 
 <sub>© 2026 Sagar Biswas · MultiHAT Field Node // ᴄᴜʀɪᴏꜱɪᴛʏ ɪꜱ ᴍʏ ᴘᴀʏʟᴏᴀᴅ</sub>
 
