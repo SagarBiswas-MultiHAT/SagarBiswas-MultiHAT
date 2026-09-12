@@ -130,6 +130,9 @@ Full provenance and verification links: [→ Credential Vault](https://sagarbisw
 <div align="center">
 
 <img src="https://stats-sagarbiswas-multihat.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4&icon_color=49d3ff&border_color=15181f&rank_icon=github" alt="Sagar Biswas's GitHub stats" height="165" />
+
+<br/>
+
 <img src="https://stats-sagarbiswas-multihat.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4" alt="Most used languages" height="165" />
 
 <br/>
