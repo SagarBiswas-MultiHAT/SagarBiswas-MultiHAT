@@ -116,20 +116,20 @@ Full provenance and verification links: [→ Credential Vault](https://sagarbisw
 
 <h2 align="left">GitHub Analytics</h2>
 
-| Status                                                                                                                                                      | Most Used Languages                                                                                |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-|                                                                                                                                                             |
+| Status | Most Used Languages |
+| :---: | :---: |
+| | |
 | <img src="https://stats-sagarbiswas-multihat.vercel.app/api?username=SagarBiswas-MultiHAT&show_icons=true&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4&icon_color=49d3ff&border_color=15181f&rank_icon=github" alt="Sagar Biswas's GitHub stats" height="165" /> | <img src="https://stats-sagarbiswas-multihat.vercel.app/api/top-langs?username=SagarBiswas-MultiHAT&layout=compact&langs_count=6&hide_border=true&bg_color=050506&title_color=49d3ff&text_color=aab4c4" alt="Most used languages" height="165" /> |
 
-| Weekly Streak                                                                                              |                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                            |
-| <img src="https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&hide_border=true&background=050506&border=050506&stroke=49d3ff&ring=49d3ff&fire=eef1f5&currStreakNum=eef1f5&currStreakLabel=49d3ff&sideNums=aab4c4&sideLabels=aab4c4&dates=aab4c4" alt="GitHub streak stats" width="90%" /> |
+| Weekly Streak |
+| :---: |
+| |
+| <img src="https://streak-stats.demolab.com?user=SagarBiswas-MultiHAT&hide_border=true&background=050506&border=050506&stroke=49d3ff&ring=49d3ff&fire=eef1f5&currStreakNum=eef1f5&currStreakLabel=49d3ff&sideNums=aab4c4&sideLabels=aab4c4&dates=aab4c4" alt="GitHub streak stats" /> |
 
-| GitHub Activity                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                                                                                |
-| <img src="https://graph-sagarbiswas-multihat.vercel.app/graph?username=SagarBiswas-MultiHAT&hide_border=true&bg_color=050506&color=aab4c4&line=49d3ff&point=eef1f5" alt="Contribution activity graph" width="90%" /> |
+| GitHub Activity |
+| :---: |
+| |
+| <img src="https://graph-sagarbiswas-multihat.vercel.app/graph?username=SagarBiswas-MultiHAT&hide_border=true&bg_color=050506&color=aab4c4&line=49d3ff&point=eef1f5" alt="Contribution activity graph" /> |
 
 </div>
 
