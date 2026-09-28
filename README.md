@@ -25,7 +25,11 @@ I work both sides of the same problem: breaking web applications to understand h
 
 <div align="center">
 
+<table><tr><td>
+
 <img src="resources/coverPhoto.jpg" alt="Sagar Biswas: Operator Field Photo" width="100%" />
+
+</td></tr></table>
 
 ---
 
@@ -87,13 +91,9 @@ Flagship open-source roadmaps, structured training curricula, and community lear
 <a href="https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths"><img src="https://img.shields.io/badge/CAREERS-35%20Security%20Roles-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Cybersecurity Career Paths" /></a> &nbsp;
 <a href="https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-books"><img src="https://img.shields.io/badge/LIBRARY-70%2B%20Free%20Books-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Cybersecurity Books" /></a>
 
-<br/><br/>
-
-`#offensive-security` · `#penetration-testing` · `#red-team` · `#active-directory` · `#binary-exploitation` · `#edr-evasion` · `#tryhackme` · `#owasp` · `#career-roadmap` · `#cybersecurity-books`
-
 </div>
 
-<br/>
+`#offensive-security` · `#penetration-testing` · `#red-team` · `#active-directory` · `#binary-exploitation` · `#edr-evasion` · `#tryhackme` · `#owasp` · `#career-roadmap` · `#cybersecurity-books`
 
 | Roadmap / Curriculum | Core Domains & Technical Modules | Quantified Scale & Deliverables | Repository |
 |---|---|---|---|
@@ -115,13 +115,9 @@ A curated open-access library of **32+ technical notebooks, field manuals, and s
 <img src="https://img.shields.io/badge/TOTAL%20VOLUMES-32%2B%20Handbooks-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Total Volumes" /> &nbsp;
 <img src="https://img.shields.io/badge/READER%20ENGINE-PDF.js%20Viewer-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="PDF.js Viewer" />
 
-<br/><br/>
-
-`#cybersecurity` · `#ethical-hacking` · `#osint` · `#web-security` · `#python` · `#cpp` · `#javascript` · `#react` · `#php` · `#bash` · `#git` · `#nestjs` · `#html5`
-
 </div>
 
-<br/>
+`#cybersecurity` · `#ethical-hacking` · `#osint` · `#web-security` · `#python` · `#cpp` · `#javascript` · `#react` · `#php` · `#bash` · `#git` · `#nestjs` · `#html5`
 
 **Quick Navigation:**
 [Cybersecurity](#cybersecurity-notebooks) · [Premium Vault](#premium-handbooks--vault) · [Python](#python-notebooks) · [C & C++](#c--c-notebooks) · [JavaScript](#javascript-notebooks) · [React](#react-notebooks) · [PHP](#php-notebooks) · [Bash Scripting](#bash-scripting-notebooks) · [Git & GitHub](#git--github-notebooks) · [NestJS](#nestjs-notebooks) · [HTML / Other](#html--other-notebooks)
