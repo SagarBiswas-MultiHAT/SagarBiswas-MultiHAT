@@ -98,7 +98,7 @@ Flagship open-source roadmaps, structured training curricula, and community lear
 <a href="https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths"><img src="https://img.shields.io/badge/CAREERS-35%20Security%20Roles-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Cybersecurity Career Paths" /></a> &nbsp;
 <a href="https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-books"><img src="https://img.shields.io/badge/LIBRARY-70%2B%20Free%20Books-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Cybersecurity Books" /></a>
 
-<br/><br/>
+<br/>
 
 `#offensive-security` · `#penetration-testing` · `#red-team` · `#active-directory` · `#binary-exploitation` · `#edr-evasion` · `#tryhackme` · `#owasp` · `#career-roadmap` · `#cybersecurity-books`
 
@@ -126,7 +126,7 @@ A curated open-access library of **32+ technical notebooks, field manuals, and s
 <img src="https://img.shields.io/badge/TOTAL%20VOLUMES-32%2B%20Handbooks-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Total Volumes" /> &nbsp;
 <img src="https://img.shields.io/badge/READER%20ENGINE-PDF.js%20Viewer-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="PDF.js Viewer" />
 
-<br/><br/>
+<br/>
 
 `#cybersecurity` · `#ethical-hacking` · `#osint` · `#web-security` · `#python` · `#cpp` · `#javascript` · `#react` · `#php` · `#bash` · `#git` · `#nestjs` · `#html5`
 
