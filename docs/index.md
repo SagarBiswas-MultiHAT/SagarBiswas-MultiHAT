@@ -81,6 +81,7 @@ Open-source tools, all client-side or self-hosted where it matters.
 | **WiFi-QR-Generator** | Browser-only Wi-Fi QR codes: WPA/WPA2/WEP, hidden SSIDs, PNG/SVG export, nothing leaves the device | [wifi.multihat.dev/qr](https://wifi.multihat.dev/qr) |
 | **Password-Strength-Checker** | Accessible, fully offline entropy estimator with weak-pattern detection and a built-in generator | [psc.multihat.dev](http://psc.multihat.dev/) |
 | **SharpLink-URL-Allies** | Flask URL shortener with custom aliases, expiration, SQLite persistence, and a REST API | [sharplink.onrender.com](https://sharplink.onrender.com/) |
+| **Multi-FA-Auth** | A beginner-friendly Node/Express + Vanilla JS authentication demo that implements a complete sign-up/sign-in lifecycle: email verification (4-digit OTP), optional 2FA (email OTP, TOTP authenticator, backup codes), password reset, account settings, session handling, and deploy-ready email fallback (Brevo → SMTP → debug) | [twofa-auth-vwrs.onrender.com](https://twofa-auth-vwrs.onrender.com/) |
 
 More on GitHub: [github.com/SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT?tab=repositories)
 
