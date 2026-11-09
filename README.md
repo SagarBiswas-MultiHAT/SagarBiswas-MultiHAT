@@ -8,7 +8,8 @@
 
 <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/actions/workflows/get-started.yml"><img src="https://img.shields.io/github/actions/workflow/status/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/get-started.yml?branch=main&style=flat-square&label=BUILD&labelColor=050506&color=49d3ff" alt="Build status" /></a> &nbsp;
 <a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT?style=flat-square&label=LICENSE&labelColor=050506&color=49d3ff" alt="License" /></a> &nbsp;
-<a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/main?style=flat-square&label=LAST%20COMMIT&labelColor=050506&color=49d3ff" alt="Last commit" /></a>
+<a href="https://github.com/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SagarBiswas-MultiHAT/main?style=flat-square&label=LAST%20COMMIT&labelColor=050506&color=49d3ff" alt="Last commit" /></a> &nbsp;
+<a href="https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK"><img src="https://img.shields.io/badge/Sponsor-Polar.sh-0062FF?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor SagarBiswas-MultiHAT on Polar.sh" /></a>
 
 <a href="https://sagarbiswas-multihat.github.io/"><img src="https://img.shields.io/badge/E--PORTFOLIO-Live%20Dossier-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="e-Portfolio" /></a> &nbsp;
 <a href="#security-roadmaps--tactical-curricula"><img src="https://img.shields.io/badge/ROADMAPS-4%20Flagship%20Vaults-050506?style=flat-square&labelColor=050506&color=49d3ff" alt="Security Roadmaps" /></a> &nbsp;
@@ -374,6 +375,16 @@ Founder-to-founder, recruiter, or fellow researcher: the fastest path in is emai
 ## Responsible Disclosure.
 
 If you find a security issue in any project here, report it privately first: [sagarbiswas@multihat.dev](mailto:sagarbiswas@multihat.dev) or via [Facebook](https://www.facebook.com/0sagarbiswas0), with enough detail to reproduce it. Please hold public exploit details until we've agreed on a remediation timeline (standard coordinated disclosure, nothing more).
+
+---
+
+## Support MultiHAT Open-Source
+
+If you find this project useful in your workflow, development, or security research, consider supporting **SagarBiswas-MultiHAT** in its ongoing maintenance and future updates (supports both One-Time and Monthly backing):
+
+[![Support on Polar.sh](https://img.shields.io/badge/Support%20on-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagarbiswas.multihat.dev-2563EB?style=for-the-badge&logo=todoist&logoColor=white)](https://sagarbiswas.multihat.dev/)
+[![Agency](https://img.shields.io/badge/Agency-multihat.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://multihat.dev)
 
 ---
 
